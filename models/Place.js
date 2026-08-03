@@ -29,7 +29,7 @@ class PlaceModel {
 
     const document = {
       name: placeData.name,
-      stateId: placeData.stateId, // Stored as state ObjectId or stateCode string
+     stateId: new ObjectId(placeData.stateId), // Foreign key reference to states collection
       category: placeData.category, // Heritage & Palaces, Spiritual/Temples, Nature/Mountains, Coastal/Beaches, Wild India [cite: 13, 354]
       summary: placeData.summary,
       details: placeData.details,
@@ -53,6 +53,70 @@ class PlaceModel {
     if (!ObjectId.isValid(id)) return false;
     const result = await this.collection.deleteOne({ _id: new ObjectId(id) });
     return result.deletedCount > 0;
+  }
+
+
+
+  // Relational Join ($lookup): Fetch places joined with State metadata
+  async getPlacesJoinedWithState(filterQuery = {}) {
+    const pipeline = [];
+
+    // Apply any initial category or state filters
+    if (filterQuery.category) {
+      pipeline.push({ $match: { category: filterQuery.category } });
+    }
+
+    if (filterQuery.stateId && ObjectId.isValid(filterQuery.stateId)) {
+      pipeline.push({ $match: { stateId: new ObjectId(filterQuery.stateId) } });
+    }
+
+    // Join with 'states' collection
+    pipeline.push({
+      $lookup: {
+        from: 'states',            // Target collection
+        localField: 'stateId',      // Field in 'places'
+        foreignField: '_id',        // Field in 'states'
+        as: 'stateDetails'          // Output array field name
+      }
+    });
+
+    // Unwind stateDetails array into a single object
+    pipeline.push({
+      $unwind: {
+        path: '$stateDetails',
+        preserveNullAndEmptyArrays: true
+      }
+    });
+
+    return await this.collection.aggregate(pipeline).toArray();
+  }
+
+
+
+  // Relational Join ($lookup): Get a single place by ID with full State Details
+  async getPlaceByIdWithState(placeId) {
+    if (!ObjectId.isValid(placeId)) return null;
+
+    const pipeline = [
+      { $match: { _id: new ObjectId(placeId) } },
+      {
+        $lookup: {
+          from: 'states',
+          localField: 'stateId',
+          foreignField: '_id',
+          as: 'stateDetails'
+        }
+      },
+      {
+        $unwind: {
+          path: '$stateDetails',
+          preserveNullAndEmptyArrays: true
+        }
+      }
+    ];
+
+    const results = await this.collection.aggregate(pipeline).toArray();
+    return results.length > 0 ? results[0] : null;
   }
 }
 

@@ -1,98 +1,85 @@
 const express = require('express');
 const router = express.Router();
 const { ObjectId } = require('mongodb');
-const verifyAdmin = require('../middleware/auth'); // JWT auth middleware [cite: 58]
-const PlaceModel = require('../models/Place'); // Native DAO [cite: 93]
+const PlaceModel = require('../models/Place');
 
 /**
- * @route   POST /api/admin/places
- * @desc    Add a new tourist attraction entry with automatic fallback default updates [cite: 20, 21, 66]
- * @access  Protected (Admin only) [cite: 18, 58]
+ * @route   GET /api/places
+ * @desc    Fetch places filtered by stateId and/or category with dynamic fallback protection
+ * @access  Public
  */
-router.post('/places', verifyAdmin, async (req, res) => {
-  try {
-    const { 
-      name, 
-      stateId, 
-      category, 
-      summary, 
-      details, 
-      bestTime, 
-      keyHighlights, 
-      isFallbackDefault 
-    } = req.body || {}; // Guard against undefined body [cite: 87]
+router.get('/', async (req, res) => {
+  const { stateId, category } = req.query;
 
-    // Validation guard rails
-    if (!name || !stateId || !category || !summary || !details || !bestTime) {
-      return res.status(400).json({ 
-        message: 'Missing required fields. Name, stateId, category, summary, details, and bestTime are required.' 
-      });
-    }
-
-    const placeDAO = new PlaceModel(req.db);
-
-    // Create location record via native DAO [cite: 70]
-    const createdPlace = await placeDAO.create({
-      name,
-      stateId,
-      category,
-      summary,
-      details,
-      bestTime,
-      keyHighlights,
-      isFallbackDefault
-    });
-
-    console.log('New destination created:', createdPlace);
-    res.status(201).json({
-      success: true,
-      message: 'Destination added successfully!',
-      data: createdPlace
-    });
-
-  } catch (error) {
-    console.error('Error in POST /api/admin/places:', error);
-    res.status(500).json({ message: 'Failed writing destination profile onto database.' });
-  }
-});
-
-/**
- * @route   GET /api/admin/places
- * @desc    Retrieve all places for admin management table
- * @access  Protected (Admin only) [cite: 58]
- */
-router.get('/places', verifyAdmin, async (req, res) => {
   try {
     const placeDAO = new PlaceModel(req.db);
-    const places = await placeDAO.findAll();
+    
+    // Execute search with automatic fallback logic handled by PlaceModel DAO
+    const places = await placeDAO.findByCategoryWithFallback(stateId, category);
 
     res.status(200).json(places);
   } catch (error) {
-    console.error('Error in GET /api/admin/places:', error);
-    res.status(500).json({ message: 'Failed fetching places directory.' });
+    console.error('Error fetching places:', error);
+    res.status(500).json({ message: 'Failed fetching location records from server.' });
   }
 });
 
 /**
- * @route   DELETE /api/admin/places/:id
- * @desc    Remove an existing destination record
- * @access  Protected (Admin only) [cite: 58]
+ * @route   GET /api/places/search
+ * @desc    Search destinations by keyword (e.g., "temple", "fort", "beach")
+ * @access  Public
  */
-router.delete('/places/:id', verifyAdmin, async (req, res) => {
+router.get('/search', async (req, res) => {
+  const { q } = req.query;
+
+  if (!q) {
+    return res.status(400).json({ message: 'Query parameter "q" is required for search.' });
+  }
+
   try {
-    const { id } = req.params;
-    const placeDAO = new PlaceModel(req.db);
-    const deleted = await placeDAO.delete(id);
+    const searchRegex = new RegExp(q, 'i'); // Case-insensitive regex match
+    
+    const results = await req.db.collection('places').find({
+      $or: [
+        { name: searchRegex },
+        { summary: searchRegex },
+        { details: searchRegex },
+        { category: searchRegex },
+        { keyHighlights: searchRegex }
+      ]
+    }).toArray();
 
-    if (!deleted) {
-      return res.status(404).json({ message: 'Place not found or already removed.' });
-    }
-
-    res.status(200).json({ success: true, message: 'Destination removed successfully.' });
+    res.status(200).json(results);
   } catch (error) {
-    console.error('Error in DELETE /api/admin/places/:id:', error);
-    res.status(500).json({ message: 'Failed to delete destination.' });
+    console.error('Error searching places:', error);
+    res.status(500).json({ message: 'Search query execution failed.' });
   }
 });
 
-module.exports = places;
+/**
+ * @route   GET /api/places/:id
+ * @desc    Fetch a single destination profile by its ObjectId
+ * @access  Public
+ */
+router.get('/:id', async (req, res) => {
+  const { id } = req.params;
+
+  if (!ObjectId.isValid(id)) {
+    return res.status(400).json({ message: 'Invalid place ID format.' });
+  }
+
+  try {
+    const place = await req.db.collection('places').findOne({ _id: new ObjectId(id) });
+
+    if (!place) {
+      return res.status(404).json({ message: 'Destination profile not found.' });
+    }
+
+    res.status(200).json(place);
+  } catch (error) {
+    console.error('Error fetching place by ID:', error);
+    res.status(500).json({ message: 'Failed to retrieve place details.' });
+  }
+});
+
+module.exports = router;

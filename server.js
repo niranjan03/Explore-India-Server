@@ -2,72 +2,62 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 
-// Import your unified native MongoDB driver pool hooks from the config directory [cite: 75]
+// Import database connection configuration
 const { connectDB } = require('./config/db');
 
-// Import your custom administrative routing map [cite: 54]
+// Import dedicated route modules
 const adminRoutes = require('./routes/admin');
+const placesRoutes = require('./routes/places');
+const newsletterRoutes = require('./routes/newsletter');
 
 const app = express();
-
-// Set up server port allocation
 const PORT = process.env.PORT || 5000;
 
-// Enable JSON middleware and cross-origin standard headers
-app.use(express.json()); // Parses incoming JSON payloads
-app.use(express.urlencoded({ extended: true })); // Parses URL-encoded form data
+// Body parsing and CORS middleware
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
-/**
- * Main Application Startup Bootstrap Wrapper
- */
 async function startServer() {
   try {
-    // 1. Establish the connection pool to the native MongoDB deployment instance [cite: 57]
+    // Connect to MongoDB
     const db = await connectDB();
 
-    // 2. Globally inject the active 'db' connection handle to make it accessible to downstream requests [cite: 68]
+    // Attach native database connection handle to every request
     app.use((req, res, next) => {
       req.db = db;
       next();
     });
 
-    /**
-     * @route   GET /api/states
-     * @desc    Public endpoint: Fetch all listed Indian states sorted alphabetically
-     */
+    // Public States Endpoint
     app.get('/api/states', async (req, res) => {
       try {
-        const statesList = await req.db.collection('states')
-          .find({})
-          .sort({ name: 1 })
-          .toArray();
-        
+        const statesList = await req.db.collection('states').find({}).sort({ name: 1 }).toArray();
         res.status(200).json(statesList);
       } catch (error) {
         res.status(500).json({ message: 'Failed compiling state directory data.' });
       }
     });
 
-    /**
-     * @route   GET /api/places
-     * @desc    Public endpoint: Fetch destinations matching filters with automated fallback logic [cite: 57]
-     */
-    app.use('/api/places', require('./routes/places'));
+    app.get('/api/health', async (req, res) => {
+      res.status(200).json({ message: 'Server is healthy and running.' });
+      
+    });
 
-    // 3. Mount the protected administrative operational routing controller space [cite: 54]
-    app.use('/api/admin', adminRoutes);
+    // Mount Modular Route Handlers
+    app.use('/api/places', placesRoutes); // Public Place Routes
+    app.use('/api/admin', adminRoutes);   // Protected Admin Routes
+    app.use('/api/newsletter', newsletterRoutes); // Newsletter Routes
 
-    // 4. Fire up the Express web server framework
+
     app.listen(PORT, () => {
       console.log(`🚀 Explore India Control Grid broadcasting live over port: ${PORT}`);
     });
 
   } catch (error) {
-    console.error('❌ Critical system failure during database or server execution bootstrap:', error);
+    console.error('❌ Server startup failure:', error);
     process.exit(1);
-  } 
+  }
 }
 
-// Launch the initialization pipeline
 startServer();

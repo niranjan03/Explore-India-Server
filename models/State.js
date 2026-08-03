@@ -15,6 +15,15 @@ class StateModel {
     return await this.collection.find({}).sort({ name: 1 }).toArray();
   }
 
+  // Find a state by its BSON ObjectId or State Code (e.g., 'RJ' or 'KA')
+  async getStateByIdOrCode(identifier) {
+    if (ObjectId.isValid(identifier)) {
+      return await this.collection.findOne({ _id: new ObjectId(identifier) });
+    }
+    return await this.collection.findOne({ stateCode: identifier.toUpperCase() });
+  }
+
+
   /**
    * Find a single state by its hex ObjectId
    * @param {string} id 
