@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "india gate", "state": "delhi"},
+  {"id": 2, "name": "taj mahal", "state": "agra"},
+  {"id": 3, "name": "gateway of india", "state": "mumbai"},
+  {"id": 4, "name": "charminar", "state": "hyderabad"},
+  {"id": 5, "name": "hawa mahal", "state": "jaipur"}
+]

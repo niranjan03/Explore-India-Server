@@ -21,6 +21,8 @@
     "helmet": "^8.2.0",
     "jsonwebtoken": "^9.0.3",
     "mongodb": "^6.21.0",
-    "nodemon": "^3.1.14"
+    "node": "^26.8.2",
+    "nodemon": "^3.1.14",
+    "pexels": "^1.4.0"
   }
 }
