@@ -1,451 +1,2971 @@
 [
   {
-    "query": "india gate, delhi",
+    "placeKey": "india gate|delhi",
+    "query": "India Gate, Delhi",
+    "name": "India Gate",
+    "state": "Delhi",
     "images": [
       {
         "id": 16960242,
-        "name": "india gate, delhi",
+        "name": "India Gate, Delhi",
         "url": "https://www.pexels.com/photo/india-gate-in-new-delhi-at-sunset-16960242/",
         "original": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg",
-          "large2x": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
         "alt": "Stunning view of the India Gate with street lamps against a vibrant sunset sky in New Delhi, India."
-      },
-      {
-        "id": 14523802,
-        "name": "india gate, delhi",
-        "url": "https://www.pexels.com/photo/photo-of-an-arch-amidst-fog-14523802/",
-        "original": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg",
-          "large2x": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/14523802/pexels-photo-14523802.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "A foggy morning view of India Gate, a famous landmark in New Delhi, India."
-      },
-      {
-        "id": 4143959,
-        "name": "india gate, delhi",
-        "url": "https://www.pexels.com/photo/india-gate-in-close-up-shot-4143959/",
-        "original": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg",
-          "large2x": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/4143959/pexels-photo-4143959.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "A captivating view through India Gate's arch at sunset, showcasing its grandeur."
-      },
-      {
-        "id": 30575028,
-        "name": "india gate, delhi",
-        "url": "https://www.pexels.com/photo/view-of-india-gate-new-delhi-through-trees-30575028/",
-        "original": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg",
-          "large2x": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "A sunny view of the India Gate in New Delhi, framed by lush green trees under a clear blue sky."
-      },
-      {
-        "id": 30378592,
-        "name": "india gate, delhi",
-        "url": "https://www.pexels.com/photo/india-gate-in-new-delhi-on-a-sunny-day-30378592/",
-        "original": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg",
-          "large2x": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/30378592/pexels-photo-30378592.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Crowd at the iconic India Gate under a clear sky in New Delhi, India."
       }
     ]
   },
   {
-    "query": "charminar, hyderabad",
+    "placeKey": "humayun's tomb|delhi",
+    "query": "Humayun's Tomb, Delhi",
+    "name": "Humayun's Tomb",
+    "state": "Delhi",
     "images": [
       {
-        "id": 5615112,
-        "name": "charminar, hyderabad",
-        "url": "https://www.pexels.com/photo/people-walking-near-beige-monument-5615112/",
-        "original": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg",
-          "large2x": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Street view of Charminar in Hyderabad with people, vehicles, and vendors, reflecting vibrant Indian culture."
-      },
-      {
-        "id": 11321242,
-        "name": "charminar, hyderabad",
-        "url": "https://www.pexels.com/photo/white-concrete-towers-under-the-blue-sky-11321242/",
-        "original": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg",
-          "large2x": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Beautiful view of Charminar in Hyderabad, India, with clear blue skies. A historic monument and major tourist attraction."
-      },
-      {
-        "id": 34083887,
-        "name": "charminar, hyderabad",
-        "url": "https://www.pexels.com/photo/charminar-in-hyderabad-with-bustling-market-34083887/",
-        "original": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg",
-          "large2x": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/34083887/pexels-photo-34083887.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "The iconic Charminar monument in Hyderabad, India, with people and market stalls in the foreground."
-      },
-      {
-        "id": 14595317,
-        "name": "charminar, hyderabad",
-        "url": "https://www.pexels.com/photo/back-view-of-a-man-photographing-a-gate-14595317/",
-        "original": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg",
-          "large2x": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/14595317/pexels-photo-14595317.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "A tourist with a backpack photographs the iconic Charminar in bustling Hyderabad streets."
-      },
-      {
-        "id": 34422579,
-        "name": "charminar, hyderabad",
-        "url": "https://www.pexels.com/photo/historic-charminar-monument-in-hyderabad-34422579/",
-        "original": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg",
-          "large2x": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/34422579/pexels-photo-34422579.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "A captivating view of the iconic Charminar in Hyderabad, showcasing its majestic architecture."
+        "id": 26547214,
+        "name": "Humayun's Tomb, Delhi",
+        "url": "https://www.pexels.com/photo/humayuns-tomb-wall-delhi-india-26547214/",
+        "original": "https://images.pexels.com/photos/26547214/pexels-photo-26547214.jpeg",
+        "alt": "Detailed view of the ornate Mughal architectural facade at Humayun's Tomb, Delhi, India."
       }
     ]
   },
   {
-    "query": "taj mahal, agra",
+    "placeKey": "akshardham temple|delhi",
+    "query": "Akshardham Temple, Delhi",
+    "name": "Akshardham Temple",
+    "state": "Delhi",
     "images": [
       {
-        "id": 37313587,
-        "name": "taj mahal, agra",
-        "url": "https://www.pexels.com/photo/detailed-architectural-view-of-the-taj-mahal-37313587/",
-        "original": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg",
-          "large2x": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/37313587/pexels-photo-37313587.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Intricate marble carvings on the Taj Mahal's exterior in Agra, India."
-      },
-      {
-        "id": 19867662,
-        "name": "taj mahal, agra",
-        "url": "https://www.pexels.com/photo/taj-mahal-seen-through-arch-19867662/",
-        "original": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg",
-          "large2x": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/19867662/pexels-photo-19867662.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "A stunning view of the Taj Mahal framed by an ornate arch with a reflection in a puddle."
-      },
-      {
-        "id": 11948442,
-        "name": "taj mahal, agra",
-        "url": "https://www.pexels.com/photo/the-taj-mahal-in-india-11948442/",
-        "original": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg",
-          "large2x": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Beautiful view of the Taj Mahal with clear skies, a UNESCO World Heritage Site in Agra, India."
-      },
-      {
-        "id": 11521892,
-        "name": "taj mahal, agra",
-        "url": "https://www.pexels.com/photo/taj-mahal-agra-india-11521892/",
-        "original": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg",
-          "large2x": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/11521892/pexels-photo-11521892.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Stunning view of the Taj Mahal surrounded by lush greenery on a bright summer day."
-      },
-      {
-        "id": 20476702,
-        "name": "taj mahal, agra",
-        "url": "https://www.pexels.com/photo/fountain-in-front-of-taj-mahal-under-blue-sky-20476702/",
-        "original": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg",
-          "large2x": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/20476702/pexels-photo-20476702.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Beautiful shot of the iconic Taj Mahal reflecting in the water with a clear blue sky."
+        "id": 14907353,
+        "name": "Akshardham Temple, Delhi",
+        "url": "https://www.pexels.com/photo/people-standing-near-on-the-temple-14907353/",
+        "original": "https://images.pexels.com/photos/14907353/pexels-photo-14907353.jpeg",
+        "alt": "Explore the stunning architecture of Akshardham Temple during a vibrant sunset."
       }
     ]
   },
   {
-    "query": "gateway of india, mumbai",
+    "placeKey": "waste to wonder park|delhi",
+    "query": "Waste to Wonder Park, Delhi",
+    "name": "Waste to Wonder Park",
+    "state": "Delhi",
     "images": [
       {
-        "id": 36874536,
-        "name": "gateway of india, mumbai",
-        "url": "https://www.pexels.com/photo/view-of-gateway-of-india-in-mumbai-at-sunset-36874536/",
-        "original": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg",
-          "large2x": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/36874536/pexels-photo-36874536.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Stunning view of the iconic Gateway of India with boats and visitors at sunset in Mumbai."
-      },
+        "id": 19966836,
+        "name": "Waste to Wonder Park, Delhi",
+        "url": "https://www.pexels.com/photo/humayuns-tomb-in-delhi-19966836/",
+        "original": "https://images.pexels.com/photos/19966836/pexels-photo-19966836.jpeg",
+        "alt": "A vibrant view of Humayun's Tomb in New Delhi filled with visitors on a sunny day."
+      }
+    ]
+  },
+  {
+    "placeKey": "jantar mantar|delhi",
+    "query": "Jantar Mantar, Delhi",
+    "name": "Jantar Mantar",
+    "state": "Delhi",
+    "images": [
       {
-        "id": 6522109,
-        "name": "gateway of india, mumbai",
-        "url": "https://www.pexels.com/photo/people-on-square-near-gateaway-to-india-6522109/",
-        "original": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg",
-          "large2x": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/6522109/pexels-photo-6522109.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Vibrant crowd gathered at the famous Gateway of India in Mumbai, India during the day."
-      },
+        "id": 13337250,
+        "name": "Jantar Mantar, Delhi",
+        "url": "https://www.pexels.com/photo/observatory-jantar-mantar-new-delhi-delhi-india-13337250/",
+        "original": "https://images.pexels.com/photos/13337250/pexels-photo-13337250.jpeg",
+        "alt": "View of Jantar Mantar's architectural marvel in Delhi under a clear sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "chandni chowk|delhi",
+    "query": "Chandni Chowk, Delhi",
+    "name": "Chandni Chowk",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 19528079,
+        "name": "Chandni Chowk, Delhi",
+        "url": "https://www.pexels.com/photo/crowd-in-a-narrow-street-in-delhi-19528079/",
+        "original": "https://images.pexels.com/photos/19528079/pexels-photo-19528079.jpeg",
+        "alt": "View of a busy market street in Delhi with crowds and historic architecture under a clear sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "lotus temple|delhi",
+    "query": "Lotus Temple, Delhi",
+    "name": "Lotus Temple",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 4727066,
+        "name": "Lotus Temple, Delhi",
+        "url": "https://www.pexels.com/photo/the-lotus-temple-at-sunset-4727066/",
+        "original": "https://images.pexels.com/photos/4727066/pexels-photo-4727066.jpeg",
+        "alt": "Stunning view of the Lotus Temple in New Delhi at sunset, showcasing modern architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "red fort|delhi",
+    "query": "Red Fort, Delhi",
+    "name": "Red Fort",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 34201914,
+        "name": "Red Fort, Delhi",
+        "url": "https://www.pexels.com/photo/red-fort-architectural-detail-at-sunset-34201914/",
+        "original": "https://images.pexels.com/photos/34201914/pexels-photo-34201914.jpeg",
+        "alt": "Close-up of Red Fort's intricate architecture at sunset with flying birds."
+      }
+    ]
+  },
+  {
+    "placeKey": "agrasen ki baoli|delhi",
+    "query": "Agrasen ki Baoli, Delhi",
+    "name": "Agrasen ki Baoli",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 33812749,
+        "name": "Agrasen ki Baoli, Delhi",
+        "url": "https://www.pexels.com/photo/historic-agrasen-ki-baoli-stepwell-in-delhi-india-33812749/",
+        "original": "https://images.pexels.com/photos/33812749/pexels-photo-33812749.jpeg",
+        "alt": "Majestic view of Agrasen ki Baoli stepwell in Delhi with historic architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "sunder nursery|delhi",
+    "query": "Sunder Nursery, Delhi",
+    "name": "Sunder Nursery",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 20045037,
+        "name": "Sunder Nursery, Delhi",
+        "url": "https://www.pexels.com/photo/sunder-nursery-central-park-in-delhi-india-20045037/",
+        "original": "https://images.pexels.com/photos/20045037/pexels-photo-20045037.jpeg",
+        "alt": "A picturesque view of Sunder Nursery's iconic garden and architecture located in New Delhi, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "garden of five senses|delhi",
+    "query": "Garden of Five Senses, Delhi",
+    "name": "Garden of Five Senses",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 39537949,
+        "name": "Garden of Five Senses, Delhi",
+        "url": "https://www.pexels.com/photo/beautiful-architecture-in-garden-of-five-senses-delhi-39537949/",
+        "original": "https://images.pexels.com/photos/39537949/pexels-photo-39537949.jpeg",
+        "alt": "Intricate garden architecture with water feature in the Garden of Five Senses, Delhi."
+      }
+    ]
+  },
+  {
+    "placeKey": "lodhi garden|delhi",
+    "query": "Lodhi Garden, Delhi",
+    "name": "Lodhi Garden",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 14864067,
+        "name": "Lodhi Garden, Delhi",
+        "url": "https://www.pexels.com/photo/tomb-in-lodhi-gardens-14864067/",
+        "original": "https://images.pexels.com/photos/14864067/pexels-photo-14864067.jpeg",
+        "alt": "Ancient stone mausoleum in Lodhi Gardens, enveloped in warm sunlight, New Delhi."
+      }
+    ]
+  },
+  {
+    "placeKey": "national gallery of modern art|delhi",
+    "query": "National Gallery of Modern Art, Delhi",
+    "name": "National Gallery of Modern Art",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 31950344,
+        "name": "National Gallery of Modern Art, Delhi",
+        "url": "https://www.pexels.com/photo/interior-of-national-gallery-singapore-with-glass-roof-31950344/",
+        "original": "https://images.pexels.com/photos/31950344/pexels-photo-31950344.jpeg",
+        "alt": "Spacious atrium with glass roof at the National Gallery Singapore, showcasing modern architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "national science centre|delhi",
+    "query": "National Science Centre, Delhi",
+    "name": "National Science Centre",
+    "state": "Delhi",
+    "images": [
+      {
+        "id": 13223455,
+        "name": "National Science Centre, Delhi",
+        "url": "https://www.pexels.com/photo/indian-flag-on-a-flag-pole-13223455/",
+        "original": "https://images.pexels.com/photos/13223455/pexels-photo-13223455.jpeg",
+        "alt": "Indian national flag on a tall flagpole waving against a clear sky in New Delhi, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "marine drive|maharastra",
+    "query": "Marine Drive, Maharastra",
+    "name": "Marine Drive",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 15445411,
+        "name": "Marine Drive, Maharastra",
+        "url": "https://www.pexels.com/photo/railing-near-road-on-sea-coast-15445411/",
+        "original": "https://images.pexels.com/photos/15445411/pexels-photo-15445411.jpeg",
+        "alt": "View of a coastal road with railing and sea in Rameswaram, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "gateway of india|maharastra",
+    "query": "Gateway of India, Maharastra",
+    "name": "Gateway of India",
+    "state": "Maharastra",
+    "images": [
       {
         "id": 14336179,
-        "name": "gateway of india, mumbai",
+        "name": "Gateway of India, Maharastra",
         "url": "https://www.pexels.com/photo/gateway-of-india-in-mumbai-14336179/",
         "original": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg",
-          "large2x": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/14336179/pexels-photo-14336179.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
         "alt": "Stunning black and white photograph of the Gateway of India with the sea in the foreground."
-      },
-      {
-        "id": 6522114,
-        "name": "gateway of india, mumbai",
-        "url": "https://www.pexels.com/photo/gateway-of-india-mumbai-under-clear-blue-sky-6522114/",
-        "original": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg",
-          "large2x": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/6522114/pexels-photo-6522114.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "The iconic Gateway of India in Mumbai, a popular tourist attraction and historical landmark, on a sunny day."
-      },
-      {
-        "id": 12460245,
-        "name": "gateway of india, mumbai",
-        "url": "https://www.pexels.com/photo/brown-concrete-building-12460245/",
-        "original": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg",
-          "large2x": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Captivating view of the historical Gateway of India monument under a clear blue sky in Mumbai."
       }
     ]
   },
   {
-    "query": "hawa mahal, jaipur",
+    "placeKey": "chhatrapati shivaji maharaj vastu sangrahalaya|maharastra",
+    "query": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Maharastra",
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "state": "Maharastra",
     "images": [
       {
-        "id": 33290417,
-        "name": "hawa mahal, jaipur",
-        "url": "https://www.pexels.com/photo/hawa-mahal-facade-in-jaipur-india-33290417/",
-        "original": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg",
-          "large2x": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/33290417/pexels-photo-33290417.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Intricate facade of Hawa Mahal, an iconic palace in Jaipur, India."
-      },
+        "id": 33627192,
+        "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Maharastra",
+        "url": "https://www.pexels.com/photo/statue-of-warrior-amidst-lush-greenery-33627192/",
+        "original": "https://images.pexels.com/photos/33627192/pexels-photo-33627192.jpeg",
+        "alt": "A stunning statue of a warrior on horseback surrounded by lush greenery in Agra, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "sanjay gandhi national park|maharastra",
+    "query": "Sanjay Gandhi National Park, Maharastra",
+    "name": "Sanjay Gandhi National Park",
+    "state": "Maharastra",
+    "images": [
       {
-        "id": 38068052,
-        "name": "hawa mahal, jaipur",
-        "url": "https://www.pexels.com/photo/hawa-mahal-facade-in-jaipur-india-38068052/",
-        "original": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg",
-          "large2x": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/38068052/pexels-photo-38068052.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Front view of the iconic Hawa Mahal palace in Jaipur, showcasing its unique architecture under a clear sky."
-      },
+        "id": 30686959,
+        "name": "Sanjay Gandhi National Park, Maharastra",
+        "url": "https://www.pexels.com/photo/serene-landscape-at-mumbai-s-sanjay-gandhi-national-park-30686959/",
+        "original": "https://images.pexels.com/photos/30686959/pexels-photo-30686959.jpeg",
+        "alt": "A tranquil view of trees and ancient caves at Mumbai's Sanjay Gandhi National Park."
+      }
+    ]
+  },
+  {
+    "placeKey": "siddhivinayak temple|maharastra",
+    "query": "Siddhivinayak Temple, Maharastra",
+    "name": "Siddhivinayak Temple",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 36559821,
+        "name": "Siddhivinayak Temple, Maharastra",
+        "url": "https://www.pexels.com/photo/vibrant-ganesh-idol-at-mumbai-festival-36559821/",
+        "original": "https://images.pexels.com/photos/36559821/pexels-photo-36559821.jpeg",
+        "alt": "A majestic Ganesh idol displayed during Ganesh Chaturthi celebrations in Mumbai, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "mahalaxmi temple|maharastra",
+    "query": "Mahalaxmi Temple, Maharastra",
+    "name": "Mahalaxmi Temple",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 36364678,
+        "name": "Mahalaxmi Temple, Maharastra",
+        "url": "https://www.pexels.com/photo/intricately-decorated-temple-dome-with-flag-36364678/",
+        "original": "https://images.pexels.com/photos/36364678/pexels-photo-36364678.jpeg",
+        "alt": "A beautifully detailed temple dome with an orange flag, framed by lush greenery against a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "chowpatty beach|maharastra",
+    "query": "Chowpatty Beach, Maharastra",
+    "name": "Chowpatty Beach",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 37268141,
+        "name": "Chowpatty Beach, Maharastra",
+        "url": "https://www.pexels.com/photo/scenic-sunset-view-of-mumbai-skyline-37268141/",
+        "original": "https://images.pexels.com/photos/37268141/pexels-photo-37268141.jpeg",
+        "alt": "Beautiful sunset over Mumbai skyline from the beach, with calm waves reflecting orange hues."
+      }
+    ]
+  },
+  {
+    "placeKey": "essel world|maharastra",
+    "query": "Essel World, Maharastra",
+    "name": "Essel World",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 37429119,
+        "name": "Essel World, Maharastra",
+        "url": "https://www.pexels.com/photo/exciting-roller-coaster-ride-in-amusement-park-37429119/",
+        "original": "https://images.pexels.com/photos/37429119/pexels-photo-37429119.png",
+        "alt": "Thrilling roller coaster ride with people enjoying a bright sunny day."
+      }
+    ]
+  },
+  {
+    "placeKey": "elephanta caves|maharastra",
+    "query": "Elephanta Caves, Maharastra",
+    "name": "Elephanta Caves",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 18209328,
+        "name": "Elephanta Caves, Maharastra",
+        "url": "https://www.pexels.com/photo/sculptures-of-elephanta-caves-in-mumbai-18209328/",
+        "original": "https://images.pexels.com/photos/18209328/pexels-photo-18209328.jpeg",
+        "alt": "Ancient stone carvings of Hindu deities at the Elephanta Caves, a UNESCO World Heritage Site near Mumbai, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "imagicaa|maharastra",
+    "query": "Imagicaa, Maharastra",
+    "name": "Imagicaa",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 15000352,
+        "name": "Imagicaa, Maharastra",
+        "url": "https://www.pexels.com/photo/driver-in-auto-rickshaw-15000352/",
+        "original": "https://images.pexels.com/photos/15000352/pexels-photo-15000352.jpeg",
+        "alt": "A man with a beard driving a traditional auto rickshaw in Pune, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "bangalore palace|karnataka",
+    "query": "Bangalore Palace, Karnataka",
+    "name": "Bangalore Palace",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 23973679,
+        "name": "Bangalore Palace, Karnataka",
+        "url": "https://www.pexels.com/photo/front-of-bangalore-palace-in-bangalore-in-india-23973679/",
+        "original": "https://images.pexels.com/photos/23973679/pexels-photo-23973679.jpeg",
+        "alt": "Front view of Bangalore Palace with its stone architecture and historic towers in Bengaluru, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "lalbagh botanical garden|karnataka",
+    "query": "Lalbagh Botanical Garden, Karnataka",
+    "name": "Lalbagh Botanical Garden",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 16258131,
+        "name": "Lalbagh Botanical Garden, Karnataka",
+        "url": "https://www.pexels.com/photo/rows-of-pillars-by-entrance-to-lalbagh-botanical-garden-in-india-16258131/",
+        "original": "https://images.pexels.com/photos/16258131/pexels-photo-16258131.jpeg",
+        "alt": "Intricate interior view of the glasshouse at Lalbagh Botanical Garden, highlighting its structural beauty."
+      }
+    ]
+  },
+  {
+    "placeKey": "cubbon park|karnataka",
+    "query": "Cubbon Park, Karnataka",
+    "name": "Cubbon Park",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 31585266,
+        "name": "Cubbon Park, Karnataka",
+        "url": "https://www.pexels.com/photo/tranquil-tree-covered-pathway-in-bengaluru-park-31585266/",
+        "original": "https://images.pexels.com/photos/31585266/pexels-photo-31585266.jpeg",
+        "alt": "Serene walkway under lush foliage in Bengaluru's Cubbon Park, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "iskcon temple bangalore|karnataka",
+    "query": "ISKCON Temple Bangalore, Karnataka",
+    "name": "ISKCON Temple Bangalore",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 38443315,
+        "name": "ISKCON Temple Bangalore, Karnataka",
+        "url": "https://www.pexels.com/photo/shiv-temple-in-bengaluru-surrounded-by-trees-38443315/",
+        "original": "https://images.pexels.com/photos/38443315/pexels-photo-38443315.jpeg",
+        "alt": "A historic Shiv temple in Bengaluru, India, embellished with intricate carvings and surrounded by lush trees."
+      }
+    ]
+  },
+  {
+    "placeKey": "charminar|telangana",
+    "query": "Charminar, Telangana",
+    "name": "Charminar",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 11321242,
+        "name": "Charminar, Telangana",
+        "url": "https://www.pexels.com/photo/white-concrete-towers-under-the-blue-sky-11321242/",
+        "original": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg",
+        "alt": "Beautiful view of Charminar in Hyderabad, India, with clear blue skies. A historic monument and major tourist attraction."
+      }
+    ]
+  },
+  {
+    "placeKey": "golconda fort|telangana",
+    "query": "Golconda Fort, Telangana",
+    "name": "Golconda Fort",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 29221917,
+        "name": "Golconda Fort, Telangana",
+        "url": "https://www.pexels.com/photo/historic-golconda-fort-in-hyderabad-india-29221917/",
+        "original": "https://images.pexels.com/photos/29221917/pexels-photo-29221917.jpeg",
+        "alt": "Scenic view of Golconda Fort's architecture in Hyderabad, India on an overcast day."
+      }
+    ]
+  },
+  {
+    "placeKey": "hussain sagar lake|telangana",
+    "query": "Hussain Sagar Lake, Telangana",
+    "name": "Hussain Sagar Lake",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 7605486,
+        "name": "Hussain Sagar Lake, Telangana",
+        "url": "https://www.pexels.com/photo/grayscale-photo-of-the-statue-of-gautama-buddha-in-hussain-sagar-lake-in-india-7605486/",
+        "original": "https://images.pexels.com/photos/7605486/pexels-photo-7605486.jpeg",
+        "alt": "Black and white image of a Buddha statue on Hussain Sagar Lake, Hyderabad, reflecting a calm and historical ambiance."
+      }
+    ]
+  },
+  {
+    "placeKey": "salar jung museum|telangana",
+    "query": "Salar Jung Museum, Telangana",
+    "name": "Salar Jung Museum",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 14418870,
+        "name": "Salar Jung Museum, Telangana",
+        "url": "https://www.pexels.com/photo/facade-of-the-clock-tower-of-the-chowmahalla-palace-in-hyderabad-telangana-india-14418870/",
+        "original": "https://images.pexels.com/photos/14418870/pexels-photo-14418870.jpeg",
+        "alt": "Vertical view of the Chowmahalla Palace clock tower, a historic landmark in Hyderabad, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "qutb shahi tombs|telangana",
+    "query": "Qutb Shahi Tombs, Telangana",
+    "name": "Qutb Shahi Tombs",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 35723852,
+        "name": "Qutb Shahi Tombs, Telangana",
+        "url": "https://www.pexels.com/photo/majestic-qutb-shahi-tomb-in-hyderabad-s-lush-surroundings-35723852/",
+        "original": "https://images.pexels.com/photos/35723852/pexels-photo-35723852.jpeg",
+        "alt": "Explore the grandeur of a Qutb Shahi Tomb amidst nature in Hyderabad, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "birla mandir|telangana",
+    "query": "Birla Mandir, Telangana",
+    "name": "Birla Mandir",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 28861116,
+        "name": "Birla Mandir, Telangana",
+        "url": "https://www.pexels.com/photo/majestic-birla-mandir-temple-in-new-delhi-india-28861116/",
+        "original": "https://images.pexels.com/photos/28861116/pexels-photo-28861116.jpeg",
+        "alt": "Stunning view of Birla Mandir Temple, New Delhi with beautiful architecture under cloudy skies."
+      }
+    ]
+  },
+  {
+    "placeKey": "chowmahalla palace|telangana",
+    "query": "Chowmahalla Palace, Telangana",
+    "name": "Chowmahalla Palace",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 12572754,
+        "name": "Chowmahalla Palace, Telangana",
+        "url": "https://www.pexels.com/photo/the-chowmahalla-palace-in-india-12572754/",
+        "original": "https://images.pexels.com/photos/12572754/pexels-photo-12572754.jpeg",
+        "alt": "Majestic view of Chowmahalla Palace in Hyderabad, showcasing its stunning historical architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "nehru zoological park|telangana",
+    "query": "Nehru Zoological Park, Telangana",
+    "name": "Nehru Zoological Park",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 33216650,
+        "name": "Nehru Zoological Park, Telangana",
+        "url": "https://www.pexels.com/photo/majestic-lion-in-hyderabad-zoo-33216650/",
+        "original": "https://images.pexels.com/photos/33216650/pexels-photo-33216650.jpeg",
+        "alt": "Beautiful male lion relaxing in lush greenery at Hyderabad Zoo in India."
+      }
+    ]
+  },
+  {
+    "placeKey": "lumbini park|telangana",
+    "query": "Lumbini Park, Telangana",
+    "name": "Lumbini Park",
+    "state": "Telangana",
+    "images": [
+      {
+        "id": 5539867,
+        "name": "Lumbini Park, Telangana",
+        "url": "https://www.pexels.com/photo/the-german-temple-in-lumbini-nepal-5539867/",
+        "original": "https://images.pexels.com/photos/5539867/pexels-photo-5539867.jpeg",
+        "alt": "A tranquil view of a traditional temple in Lumbini, Nepal, reflecting in a calm lake."
+      }
+    ]
+  },
+  {
+    "placeKey": "victoria memorial|west bengal",
+    "query": "Victoria Memorial, West Bengal",
+    "name": "Victoria Memorial",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 34019031,
+        "name": "Victoria Memorial, West Bengal",
+        "url": "https://www.pexels.com/photo/victoria-memorial-under-blue-sky-with-fountain-34019031/",
+        "original": "https://images.pexels.com/photos/34019031/pexels-photo-34019031.jpeg",
+        "alt": "Stunning view of Victoria Memorial in Kolkata, featuring a fountain and lush greenery."
+      }
+    ]
+  },
+  {
+    "placeKey": "howrah bridge|west bengal",
+    "query": "Howrah Bridge, West Bengal",
+    "name": "Howrah Bridge",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 22805006,
+        "name": "Howrah Bridge, West Bengal",
+        "url": "https://www.pexels.com/photo/black-and-white-photo-of-hand-holding-out-bouquet-of-flowers-on-river-bank-under-bridge-22805006/",
+        "original": "https://images.pexels.com/photos/22805006/pexels-photo-22805006.jpeg",
+        "alt": "A monochrome image of a hand holding a flower bouquet by a river with a bridge backdrop."
+      }
+    ]
+  },
+  {
+    "placeKey": "indian museum|west bengal",
+    "query": "Indian Museum, West Bengal",
+    "name": "Indian Museum",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 33676158,
+        "name": "Indian Museum, West Bengal",
+        "url": "https://www.pexels.com/photo/stunning-view-of-victoria-memorial-in-kolkata-33676158/",
+        "original": "https://images.pexels.com/photos/33676158/pexels-photo-33676158.jpeg",
+        "alt": "Capture the majestic Victoria Memorial in Kolkata on a clear sunny day."
+      }
+    ]
+  },
+  {
+    "placeKey": "dakshineswar kali temple|west bengal",
+    "query": "Dakshineswar Kali Temple, West Bengal",
+    "name": "Dakshineswar Kali Temple",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 2783133,
+        "name": "Dakshineswar Kali Temple, West Bengal",
+        "url": "https://www.pexels.com/photo/dakshineswar-kali-temple-2783133/",
+        "original": "https://images.pexels.com/photos/2783133/pexels-photo-2783133.jpeg",
+        "alt": "Stunning view of Dakshineswar Kali Temple with water reflection under clear sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "kalighat kali temple|west bengal",
+    "query": "Kalighat Kali Temple, West Bengal",
+    "name": "Kalighat Kali Temple",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 19135138,
+        "name": "Kalighat Kali Temple, West Bengal",
+        "url": "https://www.pexels.com/photo/statue-of-a-goddess-in-a-temple-19135138/",
+        "original": "https://images.pexels.com/photos/19135138/pexels-photo-19135138.jpeg",
+        "alt": "Vibrant statue of Goddess Kali adorned with golden jewelry in a Kolkata temple."
+      }
+    ]
+  },
+  {
+    "placeKey": "eden gardens|west bengal",
+    "query": "Eden Gardens, West Bengal",
+    "name": "Eden Gardens",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 31739439,
+        "name": "Eden Gardens, West Bengal",
+        "url": "https://www.pexels.com/photo/panoramic-view-of-famous-cricket-stadium-31739439/",
+        "original": "https://images.pexels.com/photos/31739439/pexels-photo-31739439.jpeg",
+        "alt": "Wide-angle view of an iconic cricket stadium empty before a match, showcasing vibrant seating and green pitch."
+      }
+    ]
+  },
+  {
+    "placeKey": "alipore zoological gardens|west bengal",
+    "query": "Alipore Zoological Gardens, West Bengal",
+    "name": "Alipore Zoological Gardens",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 18247949,
+        "name": "Alipore Zoological Gardens, West Bengal",
+        "url": "https://www.pexels.com/photo/elephant-in-zoo-18247949/",
+        "original": "https://images.pexels.com/photos/18247949/pexels-photo-18247949.jpeg",
+        "alt": "A serene Asian elephant standing near a water source in its outdoor habitat in Kolkata Zoo."
+      }
+    ]
+  },
+  {
+    "placeKey": "science city kolkata|west bengal",
+    "query": "Science City Kolkata, West Bengal",
+    "name": "Science City Kolkata",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 22864140,
+        "name": "Science City Kolkata, West Bengal",
+        "url": "https://www.pexels.com/photo/a-truck-on-the-street-near-the-biswa-bangla-gate-new-town-kolkata-india-22864140/",
+        "original": "https://images.pexels.com/photos/22864140/pexels-photo-22864140.jpeg",
+        "alt": "Black and white urban scene featuring a truck reflection at Biswa Bangla Gate, Kolkata."
+      }
+    ]
+  },
+  {
+    "placeKey": "belur math|west bengal",
+    "query": "Belur Math, West Bengal",
+    "name": "Belur Math",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 20533245,
+        "name": "Belur Math, West Bengal",
+        "url": "https://www.pexels.com/photo/belur-math-domes-and-a-ferry-on-the-river-at-morning-20533245/",
+        "original": "https://images.pexels.com/photos/20533245/pexels-photo-20533245.jpeg",
+        "alt": "A scenic morning view of a ferry on the river near Belur Math domes, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "marble palace|west bengal",
+    "query": "Marble Palace, West Bengal",
+    "name": "Marble Palace",
+    "state": "West Bengal",
+    "images": [
+      {
+        "id": 32403410,
+        "name": "Marble Palace, West Bengal",
+        "url": "https://www.pexels.com/photo/victoria-memorial-reflecting-in-tranquil-lake-32403410/",
+        "original": "https://images.pexels.com/photos/32403410/pexels-photo-32403410.jpeg",
+        "alt": "Victorian architecture of Victoria Memorial in Kolkata mirrored in a serene lake under a sunny sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "calangute beach|goa",
+    "query": "Calangute Beach, Goa",
+    "name": "Calangute Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 35916755,
+        "name": "Calangute Beach, Goa",
+        "url": "https://www.pexels.com/photo/sunny-beach-day-in-goa-india-with-umbrellas-35916755/",
+        "original": "https://images.pexels.com/photos/35916755/pexels-photo-35916755.jpeg",
+        "alt": "Relaxing beach scene in Goa, India, featuring colorful umbrellas and a sign reading 'I Heart Goa'."
+      }
+    ]
+  },
+  {
+    "placeKey": "basilica of bom jesus|goa",
+    "query": "Basilica of Bom Jesus, Goa",
+    "name": "Basilica of Bom Jesus",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 12377181,
+        "name": "Basilica of Bom Jesus, Goa",
+        "url": "https://www.pexels.com/photo/people-walking-near-old-concrete-building-12377181/",
+        "original": "https://images.pexels.com/photos/12377181/pexels-photo-12377181.jpeg",
+        "alt": "Visitors explore the iconic Basilica of Bom Jesus in Goa, a prime example of baroque architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "fort aguada|goa",
+    "query": "Fort Aguada, Goa",
+    "name": "Fort Aguada",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 29773721,
+        "name": "Fort Aguada, Goa",
+        "url": "https://www.pexels.com/photo/ancient-fort-lighthouse-against-clear-blue-sky-29773721/",
+        "original": "https://images.pexels.com/photos/29773721/pexels-photo-29773721.jpeg",
+        "alt": "A historic lighthouse atop a rugged fortress wall under a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "dudhsagar falls|goa",
+    "query": "Dudhsagar Falls, Goa",
+    "name": "Dudhsagar Falls",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 34634996,
+        "name": "Dudhsagar Falls, Goa",
+        "url": "https://www.pexels.com/photo/train-crossing-dudhsagar-waterfall-in-monsoon-34634996/",
+        "original": "https://images.pexels.com/photos/34634996/pexels-photo-34634996.jpeg",
+        "alt": "A train traversing the Dudhsagar Falls bridge, surrounded by lush greenery and cascading water."
+      }
+    ]
+  },
+  {
+    "placeKey": "anjuna beach|goa",
+    "query": "Anjuna Beach, Goa",
+    "name": "Anjuna Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 29023465,
+        "name": "Anjuna Beach, Goa",
+        "url": "https://www.pexels.com/photo/scenic-view-of-anjuna-beach-in-goa-29023465/",
+        "original": "https://images.pexels.com/photos/29023465/pexels-photo-29023465.jpeg",
+        "alt": "Beautiful Anjuna Beach in Goa with waves and clear skies."
+      }
+    ]
+  },
+  {
+    "placeKey": "chapora fort|goa",
+    "query": "Chapora Fort, Goa",
+    "name": "Chapora Fort",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 28520254,
+        "name": "Chapora Fort, Goa",
+        "url": "https://www.pexels.com/photo/sunset-over-arabian-sea-at-chapora-beach-india-28520254/",
+        "original": "https://images.pexels.com/photos/28520254/pexels-photo-28520254.jpeg",
+        "alt": "Beautiful sunset over the Arabian Sea at Chapora Beach, India, with a serene ocean view."
+      }
+    ]
+  },
+  {
+    "placeKey": "se cathedral|goa",
+    "query": "Se Cathedral, Goa",
+    "name": "Se Cathedral",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 35333488,
+        "name": "Se Cathedral, Goa",
+        "url": "https://www.pexels.com/photo/se-cathedral-in-old-goa-under-clear-blue-sky-35333488/",
+        "original": "https://images.pexels.com/photos/35333488/pexels-photo-35333488.jpeg",
+        "alt": "Beautiful view of Se Cathedral, a historic landmark in Old Goa, under a bright blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "baga beach|goa",
+    "query": "Baga Beach, Goa",
+    "name": "Baga Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 35916755,
+        "name": "Baga Beach, Goa",
+        "url": "https://www.pexels.com/photo/sunny-beach-day-in-goa-india-with-umbrellas-35916755/",
+        "original": "https://images.pexels.com/photos/35916755/pexels-photo-35916755.jpeg",
+        "alt": "Relaxing beach scene in Goa, India, featuring colorful umbrellas and a sign reading 'I Heart Goa'."
+      }
+    ]
+  },
+  {
+    "placeKey": "arambol beach|goa",
+    "query": "Arambol Beach, Goa",
+    "name": "Arambol Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 29583086,
+        "name": "Arambol Beach, Goa",
+        "url": "https://www.pexels.com/photo/woman-in-beachwear-on-arambol-beach-at-sunset-29583086/",
+        "original": "https://images.pexels.com/photos/29583086/pexels-photo-29583086.jpeg",
+        "alt": "Back view of a woman in beachwear standing on Arambol Beach, Goa at sunset."
+      }
+    ]
+  },
+  {
+    "placeKey": "palolem beach|goa",
+    "query": "Palolem Beach, Goa",
+    "name": "Palolem Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 32262464,
+        "name": "Palolem Beach, Goa",
+        "url": "https://www.pexels.com/photo/sunset-over-palolem-beach-with-palm-trees-in-goa-32262464/",
+        "original": "https://images.pexels.com/photos/32262464/pexels-photo-32262464.jpeg",
+        "alt": "A stunning aerial view of Palolem Beach in Goa, India at sunset, lined with lush palm trees."
+      }
+    ]
+  },
+  {
+    "placeKey": "colva beach|goa",
+    "query": "Colva Beach, Goa",
+    "name": "Colva Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 5870526,
+        "name": "Colva Beach, Goa",
+        "url": "https://www.pexels.com/photo/people-at-the-beach-5870526/",
+        "original": "https://images.pexels.com/photos/5870526/pexels-photo-5870526.jpeg",
+        "alt": "People enjoying a sunny day at Colva Beach in Goa, India, with clear blue skies and sandy shores."
+      }
+    ]
+  },
+  {
+    "placeKey": "miramar beach|goa",
+    "query": "Miramar Beach, Goa",
+    "name": "Miramar Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 9293634,
+        "name": "Miramar Beach, Goa",
+        "url": "https://www.pexels.com/photo/people-on-beach-9293634/",
+        "original": "https://images.pexels.com/photos/9293634/pexels-photo-9293634.jpeg",
+        "alt": "Crowded Calangute Beach in Goa with people enjoying the sunny weather and bird flying."
+      }
+    ]
+  },
+  {
+    "placeKey": "aguada beach|goa",
+    "query": "Aguada Beach, Goa",
+    "name": "Aguada Beach",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 35401276,
+        "name": "Aguada Beach, Goa",
+        "url": "https://www.pexels.com/photo/silhouette-of-people-at-fort-wall-in-goa-sunset-35401276/",
+        "original": "https://images.pexels.com/photos/35401276/pexels-photo-35401276.jpeg",
+        "alt": "Silhouetted figures on a historic fort wall during a peaceful Goa sunset by the sea."
+      }
+    ]
+  },
+  {
+    "placeKey": "dr. salim ali bird santuary|goa",
+    "query": "Dr. Salim Ali Bird Santuary, Goa",
+    "name": "Dr. Salim Ali Bird Santuary",
+    "state": "Goa",
+    "images": [
+      {
+        "id": 30288086,
+        "name": "Dr. Salim Ali Bird Santuary, Goa",
+        "url": "https://www.pexels.com/photo/scenic-boat-ride-through-lush-mangrove-forest-30288086/",
+        "original": "https://images.pexels.com/photos/30288086/pexels-photo-30288086.jpeg",
+        "alt": "Explore a tranquil boat ride navigating a dense mangrove forest by day."
+      }
+    ]
+  },
+  {
+    "placeKey": "sabarmati ashram|gujarat",
+    "query": "Sabarmati Ashram, Gujarat",
+    "name": "Sabarmati Ashram",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 1630114,
+        "name": "Sabarmati Ashram, Gujarat",
+        "url": "https://www.pexels.com/photo/white-and-brown-house-under-tree-1630114/",
+        "original": "https://images.pexels.com/photos/1630114/pexels-photo-1630114.jpeg",
+        "alt": "Serene bungalow surrounded by lush trees under a sunny sky, perfect for peaceful retreats."
+      }
+    ]
+  },
+  {
+    "placeKey": "dwarkadhish temple|gujarat",
+    "query": "Dwarkadhish Temple, Gujarat",
+    "name": "Dwarkadhish Temple",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 32604468,
+        "name": "Dwarkadhish Temple, Gujarat",
+        "url": "https://www.pexels.com/photo/historic-dwarka-cityscape-at-sunset-32604468/",
+        "original": "https://images.pexels.com/photos/32604468/pexels-photo-32604468.jpeg",
+        "alt": "View of the historic Dwarka city and temple by the river at sunset, capturing its architectural beauty."
+      }
+    ]
+  },
+  {
+    "placeKey": "gir national park|gujarat",
+    "query": "Gir National Park, Gujarat",
+    "name": "Gir National Park",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 37351790,
+        "name": "Gir National Park, Gujarat",
+        "url": "https://www.pexels.com/photo/asiatic-lion-resting-in-sasan-gir-forest-37351790/",
+        "original": "https://images.pexels.com/photos/37351790/pexels-photo-37351790.jpeg",
+        "alt": "A majestic Asiatic lion lounging in the natural habitat of Sasan Gir, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "white desert|gujarat",
+    "query": "White Desert, Gujarat",
+    "name": "White Desert",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 38947103,
+        "name": "White Desert, Gujarat",
+        "url": "https://www.pexels.com/photo/camel-cart-in-the-rann-of-kutch-desert-landscape-38947103/",
+        "original": "https://images.pexels.com/photos/38947103/pexels-photo-38947103.jpeg",
+        "alt": "A camel cart stands in the vast, serene white desert landscape of the Rann of Kutch under a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "laxmi vilas palace|gujarat",
+    "query": "Laxmi Vilas Palace, Gujarat",
+    "name": "Laxmi Vilas Palace",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 7425308,
+        "name": "Laxmi Vilas Palace, Gujarat",
+        "url": "https://www.pexels.com/photo/white-window-of-concrete-building-7425308/",
+        "original": "https://images.pexels.com/photos/7425308/pexels-photo-7425308.jpeg",
+        "alt": "Detailed architectural shot of a window section from Vijay Villas Palace, Mandvi, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "somnath temple|gujarat",
+    "query": "Somnath Temple, Gujarat",
+    "name": "Somnath Temple",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 35820784,
+        "name": "Somnath Temple, Gujarat",
+        "url": "https://www.pexels.com/photo/somnath-temple-in-gujarat-majestic-architecture-35820784/",
+        "original": "https://images.pexels.com/photos/35820784/pexels-photo-35820784.jpeg",
+        "alt": "Stunning view of Somnath Temple showcasing intricate Indian architecture under a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "rann utsav|gujarat",
+    "query": "Rann Utsav, Gujarat",
+    "name": "Rann Utsav",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 34568381,
+        "name": "Rann Utsav, Gujarat",
+        "url": "https://www.pexels.com/photo/camel-cart-on-rann-of-kutch-desert-landscape-34568381/",
+        "original": "https://images.pexels.com/photos/34568381/pexels-photo-34568381.jpeg",
+        "alt": "A colorful camel cart traversing the vast desert landscape of Rann of Kutch in Gujarat, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "statue of unity|gujarat",
+    "query": "Statue of Unity, Gujarat",
+    "name": "Statue of Unity",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 38839790,
+        "name": "Statue of Unity, Gujarat",
+        "url": "https://www.pexels.com/photo/statue-of-unity-in-kevadia-at-dusk-38839790/",
+        "original": "https://images.pexels.com/photos/38839790/pexels-photo-38839790.jpeg",
+        "alt": "Silhouette of the Statue of Unity in Kevadia, India, against a hazy sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "dandi kutir|gujarat",
+    "query": "Dandi Kutir, Gujarat",
+    "name": "Dandi Kutir",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 33953860,
+        "name": "Dandi Kutir, Gujarat",
+        "url": "https://www.pexels.com/photo/aerial-view-of-palitana-with-historic-temples-33953860/",
+        "original": "https://images.pexels.com/photos/33953860/pexels-photo-33953860.jpeg",
+        "alt": "Aerial shot of Palitana, Gujarat, showcasing temples and lush greenery under a cloudy sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "sabarmati riverfront|gujarat",
+    "query": "Sabarmati Riverfront, Gujarat",
+    "name": "Sabarmati Riverfront",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 17647105,
+        "name": "Sabarmati Riverfront, Gujarat",
+        "url": "https://www.pexels.com/photo/view-of-a-bridge-17647105/",
+        "original": "https://images.pexels.com/photos/17647105/pexels-photo-17647105.jpeg",
+        "alt": "Concrete bridge structure spans river in Ahmedabad, India with urban backdrop."
+      }
+    ]
+  },
+  {
+    "placeKey": "manek chowk|gujarat",
+    "query": "Manek Chowk, Gujarat",
+    "name": "Manek Chowk",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 16968160,
+        "name": "Manek Chowk, Gujarat",
+        "url": "https://www.pexels.com/photo/crowd-on-street-at-night-16968160/",
+        "original": "https://images.pexels.com/photos/16968160/pexels-photo-16968160.jpeg",
+        "alt": "Vibrant night market scene illuminated by colorful neon signs, teeming with crowds and lively atmosphere."
+      }
+    ]
+  },
+  {
+    "placeKey": "kankaria lake|gujarat",
+    "query": "Kankaria Lake, Gujarat",
+    "name": "Kankaria Lake",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 17613924,
+        "name": "Kankaria Lake, Gujarat",
+        "url": "https://www.pexels.com/photo/black-bird-sitting-on-a-marble-shrine-in-the-pilgrim-center-of-vadtal-by-the-holy-gomti-lake-17613924/",
+        "original": "https://images.pexels.com/photos/17613924/pexels-photo-17613924.jpeg",
+        "alt": "A beautifully ornate marble pavilion with a bird perched on top, located in a serene Indian setting."
+      }
+    ]
+  },
+  {
+    "placeKey": "science city|gujarat",
+    "query": "Science City, Gujarat",
+    "name": "Science City",
+    "state": "Gujarat",
+    "images": [
+      {
+        "id": 19098713,
+        "name": "Science City, Gujarat",
+        "url": "https://www.pexels.com/photo/globe-monument-in-national-park-19098713/",
+        "original": "https://images.pexels.com/photos/19098713/pexels-photo-19098713.jpeg",
+        "alt": "View of the globe structure at Gujarat Science City, Gujarat, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "hawa mahal|rajasthan",
+    "query": "Hawa Mahal, Rajasthan",
+    "name": "Hawa Mahal",
+    "state": "Rajasthan",
+    "images": [
       {
         "id": 12931430,
-        "name": "hawa mahal, jaipur",
+        "name": "Hawa Mahal, Rajasthan",
         "url": "https://www.pexels.com/photo/the-hawa-mahal-in-jaipur-12931430/",
         "original": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg",
-          "large2x": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/12931430/pexels-photo-12931430.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
         "alt": "Capture of the stunning Mughal architecture of Hawa Mahal in Jaipur, featuring intricate facades."
-      },
+      }
+    ]
+  },
+  {
+    "placeKey": "city palace|rajasthan",
+    "query": "City Palace, Rajasthan",
+    "name": "City Palace",
+    "state": "Rajasthan",
+    "images": [
       {
-        "id": 34086724,
-        "name": "hawa mahal, jaipur",
-        "url": "https://www.pexels.com/photo/hawa-mahal-jaipur-s-iconic-architectural-gem-34086724/",
-        "original": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg",
-          "large2x": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/34086724/pexels-photo-34086724.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Stunning view of the historic Hawa Mahal, Jaipur showcasing intricate pink sandstone architecture."
-      },
+        "id": 17397822,
+        "name": "City Palace, Rajasthan",
+        "url": "https://www.pexels.com/photo/towers-of-the-city-palace-udaipur-india-17397822/",
+        "original": "https://images.pexels.com/photos/17397822/pexels-photo-17397822.jpeg",
+        "alt": "Beautiful Rajput-style architecture of a palace in Udaipur, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "jaisalmer fort|rajasthan",
+    "query": "Jaisalmer Fort, Rajasthan",
+    "name": "Jaisalmer Fort",
+    "state": "Rajasthan",
+    "images": [
       {
-        "id": 5438964,
-        "name": "hawa mahal, jaipur",
-        "url": "https://www.pexels.com/photo/colorful-windows-of-brown-concrete-building-5438964/",
-        "original": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg",
-        "src": {
-          "original": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg",
-          "large2x": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-          "large": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-          "medium": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg?auto=compress&cs=tinysrgb&h=350",
-          "small": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg?auto=compress&cs=tinysrgb&h=130",
-          "portrait": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-          "landscape": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-          "tiny": "https://images.pexels.com/photos/5438964/pexels-photo-5438964.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-        },
-        "alt": "Majestic view of Hawa Mahal in Jaipur at night, showcasing its rich architectural details."
+        "id": 35130760,
+        "name": "Jaisalmer Fort, Rajasthan",
+        "url": "https://www.pexels.com/photo/aerial-view-of-jaisalmer-fort-in-rajasthan-india-35130760/",
+        "original": "https://images.pexels.com/photos/35130760/pexels-photo-35130760.jpeg",
+        "alt": "Stunning aerial view of Jaisalmer Fort, a historic landmark in Rajasthan, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "ranthambore national park|rajasthan",
+    "query": "Ranthambore National Park, Rajasthan",
+    "name": "Ranthambore National Park",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 13613061,
+        "name": "Ranthambore National Park, Rajasthan",
+        "url": "https://www.pexels.com/photo/a-deer-with-antler-near-the-river-13613061/",
+        "original": "https://images.pexels.com/photos/13613061/pexels-photo-13613061.jpeg",
+        "alt": "Majestic Sambar Deer overlooking a tranquil lake at sunset in Ranthambhore Fort."
+      }
+    ]
+  },
+  {
+    "placeKey": "pushkar lake|rajasthan",
+    "query": "Pushkar Lake, Rajasthan",
+    "name": "Pushkar Lake",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 36795134,
+        "name": "Pushkar Lake, Rajasthan",
+        "url": "https://www.pexels.com/photo/scenic-view-of-pushkar-lake-and-ghats-in-india-36795134/",
+        "original": "https://images.pexels.com/photos/36795134/pexels-photo-36795134.jpeg",
+        "alt": "Reflective view of Pushkar Lake with surrounding architecture and hills in India."
+      }
+    ]
+  },
+  {
+    "placeKey": "ajmer sharif dargah|rajasthan",
+    "query": "Ajmer Sharif Dargah, Rajasthan",
+    "name": "Ajmer Sharif Dargah",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 39172397,
+        "name": "Ajmer Sharif Dargah, Rajasthan",
+        "url": "https://www.pexels.com/photo/view-of-dargah-bazaar-leading-to-ajmer-sharif-39172397/",
+        "original": "https://images.pexels.com/photos/39172397/pexels-photo-39172397.jpeg",
+        "alt": "Busy street view of Dargah Bazaar leading to the prominent Ajmer Sharif Dargah at sunset in Ajmer, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "mehrangarh fort|rajasthan",
+    "query": "Mehrangarh Fort, Rajasthan",
+    "name": "Mehrangarh Fort",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 15774210,
+        "name": "Mehrangarh Fort, Rajasthan",
+        "url": "https://www.pexels.com/photo/ancient-museum-on-a-hill-in-india-15774210/",
+        "original": "https://images.pexels.com/photos/15774210/pexels-photo-15774210.png",
+        "alt": "Stunning view of Mehrangarh Fort during a vibrant sunset in Jodhpur, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "chittorgarh fort|rajasthan",
+    "query": "Chittorgarh Fort, Rajasthan",
+    "name": "Chittorgarh Fort",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 38076513,
+        "name": "Chittorgarh Fort, Rajasthan",
+        "url": "https://www.pexels.com/photo/vijay-stambh-at-chittorgarh-fort-india-38076513/",
+        "original": "https://images.pexels.com/photos/38076513/pexels-photo-38076513.jpeg",
+        "alt": "Majestic view of Vijay Stambh tower at Chittorgarh Fort, capturing ancient architectural splendor."
+      }
+    ]
+  },
+  {
+    "placeKey": "dilwara temples|rajasthan",
+    "query": "Dilwara Temples, Rajasthan",
+    "name": "Dilwara Temples",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 30647799,
+        "name": "Dilwara Temples, Rajasthan",
+        "url": "https://www.pexels.com/photo/stunning-architecture-of-dilwara-temple-30647799/",
+        "original": "https://images.pexels.com/photos/30647799/pexels-photo-30647799.jpeg",
+        "alt": "Capture of the intricate carvings and stunning architecture of Dilwara Temple in India."
+      }
+    ]
+  },
+  {
+    "placeKey": "junagarh fort|rajasthan",
+    "query": "Junagarh Fort, Rajasthan",
+    "name": "Junagarh Fort",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 36545457,
+        "name": "Junagarh Fort, Rajasthan",
+        "url": "https://www.pexels.com/photo/junagarh-fort-in-bikaner-rajasthan-india-36545457/",
+        "original": "https://images.pexels.com/photos/36545457/pexels-photo-36545457.jpeg",
+        "alt": "Historic Junagarh Fort in Bikaner, showcasing stunning Rajasthan architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "amber fort|rajasthan",
+    "query": "Amber Fort, Rajasthan",
+    "name": "Amber Fort",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 39605923,
+        "name": "Amber Fort, Rajasthan",
+        "url": "https://www.pexels.com/photo/historic-amer-fort-in-jaipur-india-39605923/",
+        "original": "https://images.pexels.com/photos/39605923/pexels-photo-39605923.jpeg",
+        "alt": "A picturesque view of Amer Fort in Jaipur, showcasing its historic architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "jaigarh fort|rajasthan",
+    "query": "Jaigarh Fort, Rajasthan",
+    "name": "Jaigarh Fort",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 19867674,
+        "name": "Jaigarh Fort, Rajasthan",
+        "url": "https://www.pexels.com/photo/jaigarh-fort-on-hill-of-eagles-19867674/",
+        "original": "https://images.pexels.com/photos/19867674/pexels-photo-19867674.jpeg",
+        "alt": "A panoramic view of Jaigarh Fort perched on a hill in Jaipur, surrounded by lush greenery."
+      }
+    ]
+  },
+  {
+    "placeKey": "lake pichola|rajasthan",
+    "query": "Lake Pichola, Rajasthan",
+    "name": "Lake Pichola",
+    "state": "Rajasthan",
+    "images": [
+      {
+        "id": 176880,
+        "name": "Lake Pichola, Rajasthan",
+        "url": "https://www.pexels.com/photo/birds-eye-photography-of-island-176880/",
+        "original": "https://images.pexels.com/photos/176880/pexels-photo-176880.jpeg",
+        "alt": "A breathtaking aerial view of Lake Pichola surrounded by lush greenery and Udaipur's cityscape."
+      }
+    ]
+  },
+  {
+    "placeKey": "golden temple (harmandir sahib)|punjab",
+    "query": "Golden Temple (Harmandir Sahib), Punjab",
+    "name": "Golden Temple (Harmandir Sahib)",
+    "state": "Punjab",
+    "images": [
+      {
+        "id": 31617840,
+        "name": "Golden Temple (Harmandir Sahib), Punjab",
+        "url": "https://www.pexels.com/photo/iconic-golden-temple-reflected-in-sacred-pool-31617840/",
+        "original": "https://images.pexels.com/photos/31617840/pexels-photo-31617840.jpeg",
+        "alt": "Stunning view of the Golden Temple and its reflection in Amritsar, India under a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "jallianwala bagh|punjab",
+    "query": "Jallianwala Bagh, Punjab",
+    "name": "Jallianwala Bagh",
+    "state": "Punjab",
+    "images": [
+      {
+        "id": 39384093,
+        "name": "Jallianwala Bagh, Punjab",
+        "url": "https://www.pexels.com/photo/martyrs-monument-in-a-tranquil-park-setting-39384093/",
+        "original": "https://images.pexels.com/photos/39384093/pexels-photo-39384093.jpeg",
+        "alt": "A serene view of the iconic red obelisk monument surrounded by lush greenery and empty chairs."
+      }
+    ]
+  },
+  {
+    "placeKey": "wagah border|punjab",
+    "query": "Wagah Border, Punjab",
+    "name": "Wagah Border",
+    "state": "Punjab",
+    "images": [
+      {
+        "id": 35928397,
+        "name": "Wagah Border, Punjab",
+        "url": "https://www.pexels.com/photo/ceremonial-guard-at-wagah-border-india-35928397/",
+        "original": "https://images.pexels.com/photos/35928397/pexels-photo-35928397.jpeg",
+        "alt": "Indian border guard in ceremonial uniform at Wagah Border, showcasing patriotism."
+      }
+    ]
+  },
+  {
+    "placeKey": "rock garden|punjab",
+    "query": "Rock Garden, Punjab",
+    "name": "Rock Garden",
+    "state": "Punjab",
+    "images": [
+      {
+        "id": 25361507,
+        "name": "Rock Garden, Punjab",
+        "url": "https://www.pexels.com/photo/sant-baba-darshan-singh-ji-touching-blooming-flowers-25361507/",
+        "original": "https://images.pexels.com/photos/25361507/pexels-photo-25361507.jpeg",
+        "alt": "An elderly man in traditional attire tending to colorful flowers in a rural garden."
+      }
+    ]
+  },
+  {
+    "placeKey": "alappuzha beach|kerala",
+    "query": "Alappuzha Beach, Kerala",
+    "name": "Alappuzha Beach",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 29391224,
+        "name": "Alappuzha Beach, Kerala",
+        "url": "https://www.pexels.com/photo/tranquil-alappuzha-beach-with-iconic-piers-29391224/",
+        "original": "https://images.pexels.com/photos/29391224/pexels-photo-29391224.jpeg",
+        "alt": "Experience the serene beauty of Alappuzha Beach with its unique piers against a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "munnar tea gardens|kerala",
+    "query": "Munnar Tea Gardens, Kerala",
+    "name": "Munnar Tea Gardens",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 3848200,
+        "name": "Munnar Tea Gardens, Kerala",
+        "url": "https://www.pexels.com/photo/green-field-on-hillside-in-foggy-weather-in-rural-zone-3848200/",
+        "original": "https://images.pexels.com/photos/3848200/pexels-photo-3848200.jpeg",
+        "alt": "Picturesque view of bright green valley on hills with narrow wavy pathway near growing trees under cloudy sky in mist in countryside"
+      }
+    ]
+  },
+  {
+    "placeKey": "fort kochi|kerala",
+    "query": "Fort Kochi, Kerala",
+    "name": "Fort Kochi",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 36949998,
+        "name": "Fort Kochi, Kerala",
+        "url": "https://www.pexels.com/photo/historic-paradesi-synagogue-clock-tower-in-kochi-36949998/",
+        "original": "https://images.pexels.com/photos/36949998/pexels-photo-36949998.jpeg",
+        "alt": "View of the historic clock tower at Paradesi Synagogue, featuring colonial architecture in Kochi, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "padmanabhaswamy temple|kerala",
+    "query": "Padmanabhaswamy Temple, Kerala",
+    "name": "Padmanabhaswamy Temple",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 39532505,
+        "name": "Padmanabhaswamy Temple, Kerala",
+        "url": "https://www.pexels.com/photo/padmanabhaswamy-temple-at-sunset-in-kerala-39532505/",
+        "original": "https://images.pexels.com/photos/39532505/pexels-photo-39532505.jpeg",
+        "alt": "Scenic view of Padmanabhaswamy Temple with golden sunset in Thiruvananthapuram, Kerala."
+      }
+    ]
+  },
+  {
+    "placeKey": "kozhikode beach|kerala",
+    "query": "Kozhikode Beach, Kerala",
+    "name": "Kozhikode Beach",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 20419967,
+        "name": "Kozhikode Beach, Kerala",
+        "url": "https://www.pexels.com/photo/eurasian-oyster-catchers-on-beach-20419967/",
+        "original": "https://images.pexels.com/photos/20419967/pexels-photo-20419967.jpeg",
+        "alt": "Eurasian oystercatchers and egrets at Kozhikode beach, India during a sunny day."
+      }
+    ]
+  },
+  {
+    "placeKey": "wayanad wildlife sanctuary|kerala",
+    "query": "Wayanad Wildlife Sanctuary, Kerala",
+    "name": "Wayanad Wildlife Sanctuary",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 27745634,
+        "name": "Wayanad Wildlife Sanctuary, Kerala",
+        "url": "https://www.pexels.com/photo/spotted-deer-27745634/",
+        "original": "https://images.pexels.com/photos/27745634/pexels-photo-27745634.jpeg",
+        "alt": "A spotted deer with antlers captured in dense forest light in Wayanad, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "periyar national park|kerala",
+    "query": "Periyar National Park, Kerala",
+    "name": "Periyar National Park",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 26969142,
+        "name": "Periyar National Park, Kerala",
+        "url": "https://www.pexels.com/photo/withered-trees-in-lake-26969142/",
+        "original": "https://images.pexels.com/photos/26969142/pexels-photo-26969142.jpeg",
+        "alt": "Stunning view of Periyar Lake in Kerala showcasing reflective waters and surrounding forest."
+      }
+    ]
+  },
+  {
+    "placeKey": "kumarakom bird sanctuary|kerala",
+    "query": "Kumarakom Bird Sanctuary, Kerala",
+    "name": "Kumarakom Bird Sanctuary",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 674804,
+        "name": "Kumarakom Bird Sanctuary, Kerala",
+        "url": "https://www.pexels.com/photo/gray-scale-photography-of-bird-674804/",
+        "original": "https://images.pexels.com/photos/674804/pexels-photo-674804.jpeg",
+        "alt": "A white heron gracefully takes flight over a calm lake, captured in monochrome."
+      }
+    ]
+  },
+  {
+    "placeKey": "varkala beach|kerala",
+    "query": "Varkala Beach, Kerala",
+    "name": "Varkala Beach",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 14184437,
+        "name": "Varkala Beach, Kerala",
+        "url": "https://www.pexels.com/photo/people-on-beach-14184437/",
+        "original": "https://images.pexels.com/photos/14184437/pexels-photo-14184437.jpeg",
+        "alt": "A scenic view of Varkala Beach in Kerala, India, featuring the coastline, waves, and greenery."
+      }
+    ]
+  },
+  {
+    "placeKey": "bekal fort|kerala",
+    "query": "Bekal Fort, Kerala",
+    "name": "Bekal Fort",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 35213132,
+        "name": "Bekal Fort, Kerala",
+        "url": "https://www.pexels.com/photo/ancient-stone-steps-leading-to-kannur-fort-view-35213132/",
+        "original": "https://images.pexels.com/photos/35213132/pexels-photo-35213132.jpeg",
+        "alt": "Explore the historic Kannur Fort with its iconic stone steps and scenic views."
+      }
+    ]
+  },
+  {
+    "placeKey": "kovalam beach|kerala",
+    "query": "Kovalam Beach, Kerala",
+    "name": "Kovalam Beach",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 6073482,
+        "name": "Kovalam Beach, Kerala",
+        "url": "https://www.pexels.com/photo/panorama-of-an-ocean-shore-6073482/",
+        "original": "https://images.pexels.com/photos/6073482/pexels-photo-6073482.jpeg",
+        "alt": "Beautiful view of Kovalam Beach, India featuring a vibrant town and iconic lighthouse."
+      }
+    ]
+  },
+  {
+    "placeKey": "st. angelo fort|kerala",
+    "query": "St. Angelo Fort, Kerala",
+    "name": "St. Angelo Fort",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 35213134,
+        "name": "St. Angelo Fort, Kerala",
+        "url": "https://www.pexels.com/photo/scenic-view-of-st-angelo-fort-in-kannur-india-35213134/",
+        "original": "https://images.pexels.com/photos/35213134/pexels-photo-35213134.jpeg",
+        "alt": "A historic view of St. Angelo Fort in Kannur, showcasing its rustic architecture under a clear, sunny sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "seethargundu viewpoint|kerala",
+    "query": "Seethargundu Viewpoint, Kerala",
+    "name": "Seethargundu Viewpoint",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 27328186,
+        "name": "Seethargundu Viewpoint, Kerala",
+        "url": "https://www.pexels.com/photo/hill-27328186/",
+        "original": "https://images.pexels.com/photos/27328186/pexels-photo-27328186.jpeg",
+        "alt": "A group of people on a rock outcrop with scenic Kerala valley views, perfect for travel and adventure themes."
+      }
+    ]
+  },
+  {
+    "placeKey": "kerala folklore museum|kerala",
+    "query": "Kerala Folklore Museum, Kerala",
+    "name": "Kerala Folklore Museum",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 28635640,
+        "name": "Kerala Folklore Museum, Kerala",
+        "url": "https://www.pexels.com/photo/vibrant-theyyam-performer-in-nagpur-india-28635640/",
+        "original": "https://images.pexels.com/photos/28635640/pexels-photo-28635640.jpeg",
+        "alt": "Captivating image of a Theyyam performer in traditional attire during a cultural event in Nagpur, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "wonderla amusement park|kerala",
+    "query": "Wonderla Amusement Park, Kerala",
+    "name": "Wonderla Amusement Park",
+    "state": "Kerala",
+    "images": [
+      {
+        "id": 37309717,
+        "name": "Wonderla Amusement Park, Kerala",
+        "url": "https://www.pexels.com/photo/i-love-wonderla-amusement-park-entrance-37309717/",
+        "original": "https://images.pexels.com/photos/37309717/pexels-photo-37309717.jpeg",
+        "alt": "Entrance of Wonderla amusement park with iconic 'I Love Wonderla' sign under clear sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "mysore palace|karnataka",
+    "query": "Mysore Palace, Karnataka",
+    "name": "Mysore Palace",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 37032417,
+        "name": "Mysore Palace, Karnataka",
+        "url": "https://www.pexels.com/photo/majestic-mysore-palace-with-red-domes-37032417/",
+        "original": "https://images.pexels.com/photos/37032417/pexels-photo-37032417.jpeg",
+        "alt": "Stunning view of Mysore Palace showcasing its iconic red domes under a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "hampi archaeological ruins|karnataka",
+    "query": "Hampi Archaeological Ruins, Karnataka",
+    "name": "Hampi Archaeological Ruins",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 27719236,
+        "name": "Hampi Archaeological Ruins, Karnataka",
+        "url": "https://www.pexels.com/photo/ruins-of-hampi-27719236/",
+        "original": "https://images.pexels.com/photos/27719236/pexels-photo-27719236.jpeg",
+        "alt": "Explore ancient stone temple ruins in Hampi, India. A timeless testament to cultural heritage."
+      }
+    ]
+  },
+  {
+    "placeKey": "abbey falls|karnataka",
+    "query": "Abbey Falls, Karnataka",
+    "name": "Abbey Falls",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 36523844,
+        "name": "Abbey Falls, Karnataka",
+        "url": "https://www.pexels.com/photo/majestic-abbey-falls-in-madikeri-india-36523844/",
+        "original": "https://images.pexels.com/photos/36523844/pexels-photo-36523844.jpeg",
+        "alt": "A breathtaking view of Abbey Falls cascading through lush greenery in Madikeri, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "om beach|karnataka",
+    "query": "Om Beach, Karnataka",
+    "name": "Om Beach",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 38928512,
+        "name": "Om Beach, Karnataka",
+        "url": "https://www.pexels.com/photo/black-cow-on-gokarna-beach-with-scenic-hills-38928512/",
+        "original": "https://images.pexels.com/photos/38928512/pexels-photo-38928512.jpeg",
+        "alt": "A black cow stands on the sandy beach of Gokarna, India, with lush hills in the background."
+      }
+    ]
+  },
+  {
+    "placeKey": "mullayanagiri|karnataka",
+    "query": "Mullayanagiri, Karnataka",
+    "name": "Mullayanagiri",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 35766053,
+        "name": "Mullayanagiri, Karnataka",
+        "url": "https://www.pexels.com/photo/scenic-green-hills-of-madikeri-karnataka-35766053/",
+        "original": "https://images.pexels.com/photos/35766053/pexels-photo-35766053.jpeg",
+        "alt": "Lush green hills under a clear sky in Madikeri, Karnataka, showcasing natural beauty and tranquility."
+      }
+    ]
+  },
+  {
+    "placeKey": "badami cave temples|karnataka",
+    "query": "Badami Cave Temples, Karnataka",
+    "name": "Badami Cave Temples",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 32089411,
+        "name": "Badami Cave Temples, Karnataka",
+        "url": "https://www.pexels.com/photo/scenic-view-of-badami-temples-in-karnataka-india-32089411/",
+        "original": "https://images.pexels.com/photos/32089411/pexels-photo-32089411.jpeg",
+        "alt": "Historic temples in a rugged landscape of Badami, Karnataka, feature rocky cliffs and green foliage."
+      }
+    ]
+  },
+  {
+    "placeKey": "jog falls|karnataka",
+    "query": "Jog Falls, Karnataka",
+    "name": "Jog Falls",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 3974375,
+        "name": "Jog Falls, Karnataka",
+        "url": "https://www.pexels.com/photo/landscape-photo-of-waterfalls-between-green-trees-3974375/",
+        "original": "https://images.pexels.com/photos/3974375/pexels-photo-3974375.jpeg",
+        "alt": "Scenic cascade of Jog Falls amidst lush rainforest in Karnataka, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "panambur beach|karnataka",
+    "query": "Panambur Beach, Karnataka",
+    "name": "Panambur Beach",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 6059807,
+        "name": "Panambur Beach, Karnataka",
+        "url": "https://www.pexels.com/photo/silhouette-of-trees-during-sunset-6059807/",
+        "original": "https://images.pexels.com/photos/6059807/pexels-photo-6059807.jpeg",
+        "alt": "Silhouetted palm trees against a vibrant sunset at Maravanthe Beach, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "murudeshwar temple|karnataka",
+    "query": "Murudeshwar Temple, Karnataka",
+    "name": "Murudeshwar Temple",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 35775960,
+        "name": "Murudeshwar Temple, Karnataka",
+        "url": "https://www.pexels.com/photo/towering-temple-and-shiva-statue-in-india-35775960/",
+        "original": "https://images.pexels.com/photos/35775960/pexels-photo-35775960.jpeg",
+        "alt": "Scenic view of a grand temple tower and majestic Shiva statue by the shore in Murudeshwar, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "gol gumbaz|karnataka",
+    "query": "Gol Gumbaz, Karnataka",
+    "name": "Gol Gumbaz",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 28688883,
+        "name": "Gol Gumbaz, Karnataka",
+        "url": "https://www.pexels.com/photo/gol-gumbaz-in-bijapur-india-at-dawn-28688883/",
+        "original": "https://images.pexels.com/photos/28688883/pexels-photo-28688883.jpeg",
+        "alt": "Stunning view of Gol Gumbaz in Bijapur, India, showcasing its grand architecture at dawn."
+      }
+    ]
+  },
+  {
+    "placeKey": "bandipur national park|karnataka",
+    "query": "Bandipur National Park, Karnataka",
+    "name": "Bandipur National Park",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 34647894,
+        "name": "Bandipur National Park, Karnataka",
+        "url": "https://www.pexels.com/photo/elephant-crossing-the-road-in-indian-forest-34647894/",
+        "original": "https://images.pexels.com/photos/34647894/pexels-photo-34647894.jpeg",
+        "alt": "An elephant crosses a forest road in Bandipur, India, showcasing wildlife coexisting with travel routes."
+      }
+    ]
+  },
+  {
+    "placeKey": "halebidu hoysaleswara temple|karnataka",
+    "query": "Halebidu Hoysaleswara Temple, Karnataka",
+    "name": "Halebidu Hoysaleswara Temple",
+    "state": "Karnataka",
+    "images": [
+      {
+        "id": 28710292,
+        "name": "Halebidu Hoysaleswara Temple, Karnataka",
+        "url": "https://www.pexels.com/photo/intricate-stone-carvings-at-halebidu-temple-28710292/",
+        "original": "https://images.pexels.com/photos/28710292/pexels-photo-28710292.jpeg",
+        "alt": "Detailed stone carvings at Halebidu Temple, showcasing ancient Hoysala architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "shaniwar wada|maharastra",
+    "query": "Shaniwar Wada, Maharastra",
+    "name": "Shaniwar Wada",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 6276914,
+        "name": "Shaniwar Wada, Maharastra",
+        "url": "https://www.pexels.com/photo/old-arched-passage-of-medieval-palace-6276914/",
+        "original": "https://images.pexels.com/photos/6276914/pexels-photo-6276914.jpeg",
+        "alt": "Aged arched passage between water leading to shabby wall of ancient mansion with weathered balcony with ornamental columns on street"
+      }
+    ]
+  },
+  {
+    "placeKey": "ajanta caves|maharastra",
+    "query": "Ajanta Caves, Maharastra",
+    "name": "Ajanta Caves",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 37602278,
+        "name": "Ajanta Caves, Maharastra",
+        "url": "https://www.pexels.com/photo/intricate-carvings-of-ellora-cave-temples-37602278/",
+        "original": "https://images.pexels.com/photos/37602278/pexels-photo-37602278.jpeg",
+        "alt": "Explore the majestic stone carvings at the Ellora Cave Temples in Maharashtra, India, showcasing ancient architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "sula vineyards|maharastra",
+    "query": "Sula Vineyards, Maharastra",
+    "name": "Sula Vineyards",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 33603438,
+        "name": "Sula Vineyards, Maharastra",
+        "url": "https://www.pexels.com/photo/historic-winery-in-santiago-de-queretaro-mexico-33603438/",
+        "original": "https://images.pexels.com/photos/33603438/pexels-photo-33603438.jpeg",
+        "alt": "Charming historic winery in Santiago de Querétaro, featuring rustic architecture and vibrant vineyards."
+      }
+    ]
+  },
+  {
+    "placeKey": "alibaug beach|maharastra",
+    "query": "Alibaug Beach, Maharastra",
+    "name": "Alibaug Beach",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 39004497,
+        "name": "Alibaug Beach, Maharastra",
+        "url": "https://www.pexels.com/photo/dog-relaxing-on-alibaug-beach-39004497/",
+        "original": "https://images.pexels.com/photos/39004497/pexels-photo-39004497.jpeg",
+        "alt": "A relaxed brown dog lying on the sandy beach of Alibaug with a cloudy sky backdrop."
+      }
+    ]
+  },
+  {
+    "placeKey": "ganapatipule temple|maharastra",
+    "query": "Ganapatipule Temple, Maharastra",
+    "name": "Ganapatipule Temple",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 36559821,
+        "name": "Ganapatipule Temple, Maharastra",
+        "url": "https://www.pexels.com/photo/vibrant-ganesh-idol-at-mumbai-festival-36559821/",
+        "original": "https://images.pexels.com/photos/36559821/pexels-photo-36559821.jpeg",
+        "alt": "A majestic Ganesh idol displayed during Ganesh Chaturthi celebrations in Mumbai, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "deekshabhoomi|maharastra",
+    "query": "Deekshabhoomi, Maharastra",
+    "name": "Deekshabhoomi",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 12567423,
+        "name": "Deekshabhoomi, Maharastra",
+        "url": "https://www.pexels.com/photo/clouds-over-golden-buddha-statue-and-temple-12567423/",
+        "original": "https://images.pexels.com/photos/12567423/pexels-photo-12567423.jpeg",
+        "alt": "Majestic golden Buddha statue at an ornate temple under a vibrant blue sky with clouds."
+      }
+    ]
+  },
+  {
+    "placeKey": "mahalakshmi temple|maharastra",
+    "query": "Mahalakshmi Temple, Maharastra",
+    "name": "Mahalakshmi Temple",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 37069193,
+        "name": "Mahalakshmi Temple, Maharastra",
+        "url": "https://www.pexels.com/photo/ancient-indian-temple-reflecting-in-clear-water-37069193/",
+        "original": "https://images.pexels.com/photos/37069193/pexels-photo-37069193.jpeg",
+        "alt": "Majestic Indian temple with intricate architecture reflecting in a serene pool under a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "karla caves|maharastra",
+    "query": "Karla Caves, Maharastra",
+    "name": "Karla Caves",
+    "state": "Maharastra",
+    "images": [
+      {
+        "id": 34743333,
+        "name": "Karla Caves, Maharastra",
+        "url": "https://www.pexels.com/photo/ancient-karla-caves-chaitya-hall-in-india-34743333/",
+        "original": "https://images.pexels.com/photos/34743333/pexels-photo-34743333.jpeg",
+        "alt": "Explore the stunning Chaitya Hall of the ancient Karla Caves in Maharashtra, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "tarkarli beach|maharashtra",
+    "query": "Tarkarli Beach, Maharashtra",
+    "name": "Tarkarli Beach",
+    "state": "Maharashtra",
+    "images": [
+      {
+        "id": 35646356,
+        "name": "Tarkarli Beach, Maharashtra",
+        "url": "https://www.pexels.com/photo/tranquil-beach-scene-with-canoe-in-malvan-india-35646356/",
+        "original": "https://images.pexels.com/photos/35646356/pexels-photo-35646356.jpeg",
+        "alt": "A serene beach in Malvan, Maharashtra with a traditional canoe resting on the sandy shore."
+      }
+    ]
+  },
+  {
+    "placeKey": "kaas plateau|maharashtra",
+    "query": "Kaas Plateau, Maharashtra",
+    "name": "Kaas Plateau",
+    "state": "Maharashtra",
+    "images": [
+      {
+        "id": 8426783,
+        "name": "Kaas Plateau, Maharashtra",
+        "url": "https://www.pexels.com/photo/green-mountains-under-cloudy-sky-8426783/",
+        "original": "https://images.pexels.com/photos/8426783/pexels-photo-8426783.jpeg",
+        "alt": "Stunning aerial view of the lush green Panchgani hills under a dramatic cloudy sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "echo point|maharashtra",
+    "query": "Echo Point, Maharashtra",
+    "name": "Echo Point",
+    "state": "Maharashtra",
+    "images": [
+      {
+        "id": 5621870,
+        "name": "Echo Point, Maharashtra",
+        "url": "https://www.pexels.com/photo/gazebo-on-mountain-5621870/",
+        "original": "https://images.pexels.com/photos/5621870/pexels-photo-5621870.jpeg",
+        "alt": "A picturesque view from a gazebo overlooking lush green mountains in Maharashtra, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "ellora caves|maharashtra",
+    "query": "Ellora Caves, Maharashtra",
+    "name": "Ellora Caves",
+    "state": "Maharashtra",
+    "images": [
+      {
+        "id": 37602278,
+        "name": "Ellora Caves, Maharashtra",
+        "url": "https://www.pexels.com/photo/intricate-carvings-of-ellora-cave-temples-37602278/",
+        "original": "https://images.pexels.com/photos/37602278/pexels-photo-37602278.jpeg",
+        "alt": "Explore the majestic stone carvings at the Ellora Cave Temples in Maharashtra, India, showcasing ancient architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "khajuraho group of monuments|madhya pradesh",
+    "query": "Khajuraho Group of Monuments, Madhya Pradesh",
+    "name": "Khajuraho Group of Monuments",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 15340996,
+        "name": "Khajuraho Group of Monuments, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/dulhadev-hindu-temple-in-khajuraho-15340996/",
+        "original": "https://images.pexels.com/photos/15340996/pexels-photo-15340996.jpeg",
+        "alt": "A detailed view of an ancient Hindu temple in Khajuraho, showcasing intricate carvings and architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "sanchi stupa|madhya pradesh",
+    "query": "Sanchi Stupa, Madhya Pradesh",
+    "name": "Sanchi Stupa",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 33267224,
+        "name": "Sanchi Stupa, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/intricately-carved-ancient-indian-monument-33267224/",
+        "original": "https://images.pexels.com/photos/33267224/pexels-photo-33267224.jpeg",
+        "alt": "Explore the detailed carvings of an ancient Indian monument surrounded by lush greenery."
+      }
+    ]
+  },
+  {
+    "placeKey": "rajwada palace|madhya pradesh",
+    "query": "Rajwada Palace, Madhya Pradesh",
+    "name": "Rajwada Palace",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 39478100,
+        "name": "Rajwada Palace, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/historic-rajwada-palace-in-indore-india-39478100/",
+        "original": "https://images.pexels.com/photos/39478100/pexels-photo-39478100.jpeg",
+        "alt": "Majestic facade of Rajwada Palace in Indore showcasing ancient architectural beauty."
+      }
+    ]
+  },
+  {
+    "placeKey": "gwalior fort|madhya pradesh",
+    "query": "Gwalior Fort, Madhya Pradesh",
+    "name": "Gwalior Fort",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 5949483,
+        "name": "Gwalior Fort, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/dragon-shaped-pillars-on-a-temple-wall-5949483/",
+        "original": "https://images.pexels.com/photos/5949483/pexels-photo-5949483.jpeg",
+        "alt": "Explore the detailed stonework and architecture of Gwalior Fort in India."
+      }
+    ]
+  },
+  {
+    "placeKey": "mahakaleshwar jyotirlinga|madhya pradesh",
+    "query": "Mahakaleshwar Jyotirlinga, Madhya Pradesh",
+    "name": "Mahakaleshwar Jyotirlinga",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 38087493,
+        "name": "Mahakaleshwar Jyotirlinga, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/sacred-idol-at-mahakaleshwar-temple-in-ujjain-38087493/",
+        "original": "https://images.pexels.com/photos/38087493/pexels-photo-38087493.jpeg",
+        "alt": "Intricate idol adorned with flowers at Mahakaleshwar Temple, Ujjain, showcasing traditional Indian craftsmanship."
+      }
+    ]
+  },
+  {
+    "placeKey": "dhuandhar falls|madhya pradesh",
+    "query": "Dhuandhar Falls, Madhya Pradesh",
+    "name": "Dhuandhar Falls",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 39256059,
+        "name": "Dhuandhar Falls, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/aerial-view-of-dhuandhar-waterfall-in-jabalpur-39256059/",
+        "original": "https://images.pexels.com/photos/39256059/pexels-photo-39256059.jpeg",
+        "alt": "Stunning aerial shot of Dhuandhar Waterfall in Jabalpur, India, capturing the scenic beauty and power of nature."
+      }
+    ]
+  },
+  {
+    "placeKey": "bee falls|madhya pradesh",
+    "query": "Bee Falls, Madhya Pradesh",
+    "name": "Bee Falls",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 26841461,
+        "name": "Bee Falls, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/bee-flying-over-purple-lotus-26841461/",
+        "original": "https://images.pexels.com/photos/26841461/pexels-photo-26841461.jpeg",
+        "alt": "A vibrant purple lotus flower with a bee in flight, showcasing natural beauty and pollination."
+      }
+    ]
+  },
+  {
+    "placeKey": "kanha national park|madhya pradesh",
+    "query": "Kanha National Park, Madhya Pradesh",
+    "name": "Kanha National Park",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 17958338,
+        "name": "Kanha National Park, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/tiger-on-grassland-17958338/",
+        "original": "https://images.pexels.com/photos/17958338/pexels-photo-17958338.jpeg",
+        "alt": "Majestic Bengal Tiger prowling through green grassland at Kanha National Park, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "bandhavgarh national park|madhya pradesh",
+    "query": "Bandhavgarh National Park, Madhya Pradesh",
+    "name": "Bandhavgarh National Park",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 29193466,
+        "name": "Bandhavgarh National Park, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/bengal-tiger-resting-in-bandhavgarh-forest-29193466/",
+        "original": "https://images.pexels.com/photos/29193466/pexels-photo-29193466.jpeg",
+        "alt": "Majestic Bengal tiger resting amidst greenery in Bandhavgarh National Park, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "orchha fort|madhya pradesh",
+    "query": "Orchha Fort, Madhya Pradesh",
+    "name": "Orchha Fort",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 20000876,
+        "name": "Orchha Fort, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/facade-of-the-raja-mahal-in-orchha-india-20000876/",
+        "original": "https://images.pexels.com/photos/20000876/pexels-photo-20000876.jpeg",
+        "alt": "Discover the historic beauty of Raja Mahal in Orchha Fort, India, showcasing ancient architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "jahaz mahal|madhya pradesh",
+    "query": "Jahaz Mahal, Madhya Pradesh",
+    "name": "Jahaz Mahal",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 10974529,
+        "name": "Jahaz Mahal, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/brown-concrete-building-under-blue-sky-10974529/",
+        "original": "https://images.pexels.com/photos/10974529/pexels-photo-10974529.jpeg",
+        "alt": "Historic architectural structure with arches in Sulibardi, India, under blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "bhimbetka rock shelters|madhya pradesh",
+    "query": "Bhimbetka Rock Shelters, Madhya Pradesh",
+    "name": "Bhimbetka Rock Shelters",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 39150971,
+        "name": "Bhimbetka Rock Shelters, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/lush-forest-and-rocky-landscape-in-mp-india-39150971/",
+        "original": "https://images.pexels.com/photos/39150971/pexels-photo-39150971.jpeg",
+        "alt": "Scenic view of lush green forest amid rocky formations in Madhya Pradesh, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "narmada udgam temple|madhya pradesh",
+    "query": "Narmada Udgam Temple, Madhya Pradesh",
+    "name": "Narmada Udgam Temple",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 5972824,
+        "name": "Narmada Udgam Temple, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/people-on-the-port-5972824/",
+        "original": "https://images.pexels.com/photos/5972824/pexels-photo-5972824.jpeg",
+        "alt": "Serene view of Maheshwar ghats with historic temple along the Narmada River in India."
+      }
+    ]
+  },
+  {
+    "placeKey": "chitrakoot falls|madhya pradesh",
+    "query": "Chitrakoot Falls, Madhya Pradesh",
+    "name": "Chitrakoot Falls",
+    "state": "Madhya Pradesh",
+    "images": [
+      {
+        "id": 36402970,
+        "name": "Chitrakoot Falls, Madhya Pradesh",
+        "url": "https://www.pexels.com/photo/colorful-boats-along-the-riverbank-in-chitrakoot-36402970/",
+        "original": "https://images.pexels.com/photos/36402970/pexels-photo-36402970.jpeg",
+        "alt": "A vibrant scene of boats lined up along the riverbank in Chitrakoot, Madhya Pradesh, showcasing the cultural essence of India."
+      }
+    ]
+  },
+  {
+    "placeKey": "the ridge|himachal pradesh",
+    "query": "The Ridge, Himachal Pradesh",
+    "name": "The Ridge",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 12484246,
+        "name": "The Ridge, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/a-brown-mountain-with-green-trees-under-blue-sky-12484246/",
+        "original": "https://images.pexels.com/photos/12484246/pexels-photo-12484246.jpeg",
+        "alt": "Stunning view of a mountain range under a vibrant blue sky in Himachal Pradesh, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "solang valley|himachal pradesh",
+    "query": "Solang Valley, Himachal Pradesh",
+    "name": "Solang Valley",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 17521689,
+        "name": "Solang Valley, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/paraglider-in-air-over-woods-near-himalayas-17521689/",
+        "original": "https://images.pexels.com/photos/17521689/pexels-photo-17521689.jpeg",
+        "alt": "Experience the thrill of paragliding above the snowy mountains of Solang Valley, India. A breathtaking adventure awaits."
+      }
+    ]
+  },
+  {
+    "placeKey": "dalai lama temple|himachal pradesh",
+    "query": "Dalai Lama Temple, Himachal Pradesh",
+    "name": "Dalai Lama Temple",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 39105287,
+        "name": "Dalai Lama Temple, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/scenic-view-of-buddhist-temple-in-sidhbari-india-39105287/",
+        "original": "https://images.pexels.com/photos/39105287/pexels-photo-39105287.jpeg",
+        "alt": "Golden sunlight illuminates a Buddhist temple in Sidhbari, with a monk standing nearby, creating a serene atmosphere."
+      }
+    ]
+  },
+  {
+    "placeKey": "khajjiar lake|himachal pradesh",
+    "query": "Khajjiar Lake, Himachal Pradesh",
+    "name": "Khajjiar Lake",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 2573549,
+        "name": "Khajjiar Lake, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/herd-of-sheep-eating-grass-during-day-2573549/",
+        "original": "https://images.pexels.com/photos/2573549/pexels-photo-2573549.jpeg",
+        "alt": "A serene scene of sheep grazing in Khajjiar, Himachal Pradesh's pastoral beauty."
+      }
+    ]
+  },
+  {
+    "placeKey": "key monastery|himachal pradesh",
+    "query": "Key Monastery, Himachal Pradesh",
+    "name": "Key Monastery",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 31307365,
+        "name": "Key Monastery, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/captivating-winter-view-of-key-monastery-in-spiti-valley-31307365/",
+        "original": "https://images.pexels.com/photos/31307365/pexels-photo-31307365.jpeg",
+        "alt": "Stunning winter scene of Key Monastery surrounded by snow in Spiti Valley, Himachal Pradesh, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "great himalayan national park|himachal pradesh",
+    "query": "Great Himalayan National Park, Himachal Pradesh",
+    "name": "Great Himalayan National Park",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 37454900,
+        "name": "Great Himalayan National Park, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/stunning-mountain-landscape-in-himachal-pradesh-37454900/",
+        "original": "https://images.pexels.com/photos/37454900/pexels-photo-37454900.jpeg",
+        "alt": "Breathtaking view of lush mountains in Himachal Pradesh, showcasing stunning natural beauty."
+      }
+    ]
+  },
+  {
+    "placeKey": "chamera lake|himachal pradesh",
+    "query": "Chamera Lake, Himachal Pradesh",
+    "name": "Chamera Lake",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 21352768,
+        "name": "Chamera Lake, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/birds-eye-view-of-fields-forest-and-lake-21352768/",
+        "original": "https://images.pexels.com/photos/21352768/pexels-photo-21352768.jpeg",
+        "alt": "Spectacular aerial view of Una Lake and surrounding hills, Himachal Pradesh, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "sangla valley|himachal pradesh",
+    "query": "Sangla Valley, Himachal Pradesh",
+    "name": "Sangla Valley",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 23928501,
+        "name": "Sangla Valley, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/houses-in-village-among-snowcapped-mountains-23928501/",
+        "original": "https://images.pexels.com/photos/23928501/pexels-photo-23928501.jpeg",
+        "alt": "Scenic view of snowcapped mountains overlooking colorful houses in Sangla village, Himachal Pradesh."
+      }
+    ]
+  },
+  {
+    "placeKey": "kangra fort|himachal pradesh",
+    "query": "Kangra Fort, Himachal Pradesh",
+    "name": "Kangra Fort",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 15921772,
+        "name": "Kangra Fort, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/snowy-rocky-mountain-15921772/",
+        "original": "https://images.pexels.com/photos/15921772/pexels-photo-15921772.jpeg",
+        "alt": "Stunning view of snow-covered peaks in Kangra, HP, India, under a clear sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "tea gardens|himachal pradesh",
+    "query": "Tea Gardens, Himachal Pradesh",
+    "name": "Tea Gardens",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 37097132,
+        "name": "Tea Gardens, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/mountain-view-with-coffee-in-jibhi-india-37097132/",
+        "original": "https://images.pexels.com/photos/37097132/pexels-photo-37097132.jpeg",
+        "alt": "Enjoying a warm cup of coffee with a breathtaking view of the Jibhi mountains in Himachal Pradesh."
+      }
+    ]
+  },
+  {
+    "placeKey": "prashar lake|himachal pradesh",
+    "query": "Prashar Lake, Himachal Pradesh",
+    "name": "Prashar Lake",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 4032759,
+        "name": "Prashar Lake, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/unrecognizable-hiker-recreating-near-alpine-lake-during-sunset-4032759/",
+        "original": "https://images.pexels.com/photos/4032759/pexels-photo-4032759.jpeg",
+        "alt": "Back view of anonymous male traveler in warm clothes standing on stone and admiring picturesque view of holy alpine Prashar lake and temple located in India"
+      }
+    ]
+  },
+  {
+    "placeKey": "paragliding site|himachal pradesh",
+    "query": "Paragliding Site, Himachal Pradesh",
+    "name": "Paragliding Site",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 20137380,
+        "name": "Paragliding Site, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/parachuting-in-mountains-20137380/",
+        "original": "https://images.pexels.com/photos/20137380/pexels-photo-20137380.jpeg",
+        "alt": "Paragliding adventure over the scenic snowy mountains of Bir, India, under a clear blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "triund trek|himachal pradesh",
+    "query": "Triund Trek, Himachal Pradesh",
+    "name": "Triund Trek",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 27462660,
+        "name": "Triund Trek, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/triund-peak-27462660/",
+        "original": "https://images.pexels.com/photos/27462660/pexels-photo-27462660.jpeg",
+        "alt": "Explore the stunning Triund hike in winter mist. Perfect for adventure travel in Dharamshala, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "manikaran sahib|himachal pradesh",
+    "query": "Manikaran Sahib, Himachal Pradesh",
+    "name": "Manikaran Sahib",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 5751868,
+        "name": "Manikaran Sahib, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/view-of-a-temple-5751868/",
+        "original": "https://images.pexels.com/photos/5751868/pexels-photo-5751868.jpeg",
+        "alt": "Vibrant flags surround a temple in Manikaran, Himachal Pradesh, set against a lush forest backdrop."
+      }
+    ]
+  },
+  {
+    "placeKey": "hatu peak|himachal pradesh",
+    "query": "Hatu Peak, Himachal Pradesh",
+    "name": "Hatu Peak",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 6549482,
+        "name": "Hatu Peak, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/snow-capped-mountains-under-gloomy-sky-6549482/",
+        "original": "https://images.pexels.com/photos/6549482/pexels-photo-6549482.jpeg",
+        "alt": "Stunning view of the snow-covered mountains in the Indian Himalayas."
+      }
+    ]
+  },
+  {
+    "placeKey": "barot valley|himachal pradesh",
+    "query": "Barot Valley, Himachal Pradesh",
+    "name": "Barot Valley",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 37916113,
+        "name": "Barot Valley, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/aerial-view-of-himachal-pradesh-terraced-fields-37916113/",
+        "original": "https://images.pexels.com/photos/37916113/pexels-photo-37916113.jpeg",
+        "alt": "Lush green terraced fields in Himachal Pradesh, India, captured from above."
+      }
+    ]
+  },
+  {
+    "placeKey": "serolsar lake|himachal pradesh",
+    "query": "Serolsar Lake, Himachal Pradesh",
+    "name": "Serolsar Lake",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 32859208,
+        "name": "Serolsar Lake, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/tranquil-lake-reflection-in-green-mountain-landscape-32859208/",
+        "original": "https://images.pexels.com/photos/32859208/pexels-photo-32859208.jpeg",
+        "alt": "Serene mountain landscape with a reflective lake and lush greenery, perfect for adventure and nature lovers."
+      }
+    ]
+  },
+  {
+    "placeKey": "kufri fun world|himachal pradesh",
+    "query": "Kufri Fun World, Himachal Pradesh",
+    "name": "Kufri Fun World",
+    "state": "Himachal Pradesh",
+    "images": [
+      {
+        "id": 21558505,
+        "name": "Kufri Fun World, Himachal Pradesh",
+        "url": "https://www.pexels.com/photo/people-in-mountains-21558505/",
+        "original": "https://images.pexels.com/photos/21558505/pexels-photo-21558505.jpeg",
+        "alt": "Scenic winter landscape in Kufri, India, featuring snow, hills, and people strolling through pine forests."
+      }
+    ]
+  },
+  {
+    "placeKey": "naini lake|uttarakhand",
+    "query": "Naini Lake, Uttarakhand",
+    "name": "Naini Lake",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 7715806,
+        "name": "Naini Lake, Uttarakhand",
+        "url": "https://www.pexels.com/photo/jama-masjid-mosque-in-nainital-7715806/",
+        "original": "https://images.pexels.com/photos/7715806/pexels-photo-7715806.jpeg",
+        "alt": "Serene landscape of Nainital Lake with mosque and hills in the background during daytime."
+      }
+    ]
+  },
+  {
+    "placeKey": "laxman jhula|uttarakhand",
+    "query": "Laxman Jhula, Uttarakhand",
+    "name": "Laxman Jhula",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 36123978,
+        "name": "Laxman Jhula, Uttarakhand",
+        "url": "https://www.pexels.com/photo/scenic-view-of-laxman-jhula-bridge-in-rishikesh-36123978/",
+        "original": "https://images.pexels.com/photos/36123978/pexels-photo-36123978.jpeg",
+        "alt": "Laxman Jhula bridge spanning Ganges River in Rishikesh with mountainous backdrop."
+      }
+    ]
+  },
+  {
+    "placeKey": "har ki pauri|uttarakhand",
+    "query": "Har Ki Pauri, Uttarakhand",
+    "name": "Har Ki Pauri",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 8171698,
+        "name": "Har Ki Pauri, Uttarakhand",
+        "url": "https://www.pexels.com/photo/people-in-the-ganges-river-at-har-ki-pauri-8171698/",
+        "original": "https://images.pexels.com/photos/8171698/pexels-photo-8171698.jpeg",
+        "alt": "A vibrant scene of pilgrims bathing at the sacred Har Ki Pauri in Haridwar, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "robber's cave|uttarakhand",
+    "query": "Robber's Cave, Uttarakhand",
+    "name": "Robber's Cave",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 6325599,
+        "name": "Robber's Cave, Uttarakhand",
+        "url": "https://www.pexels.com/photo/silhouette-of-man-standing-near-the-cave-gate-6325599/",
+        "original": "https://images.pexels.com/photos/6325599/pexels-photo-6325599.jpeg",
+        "alt": "A silhouette of a person walking out of a dimly lit mountain cave with a metal gate."
+      }
+    ]
+  },
+  {
+    "placeKey": "kempty falls|uttarakhand",
+    "query": "Kempty Falls, Uttarakhand",
+    "name": "Kempty Falls",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 33719848,
+        "name": "Kempty Falls, Uttarakhand",
+        "url": "https://www.pexels.com/photo/stunning-waterfall-in-almora-s-lush-landscape-33719848/",
+        "original": "https://images.pexels.com/photos/33719848/pexels-photo-33719848.jpeg",
+        "alt": "A breathtaking waterfall cascading down the verdant hills of Almora, Uttarakhand, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "auli ski resort|uttarakhand",
+    "query": "Auli Ski Resort, Uttarakhand",
+    "name": "Auli Ski Resort",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 36746869,
+        "name": "Auli Ski Resort, Uttarakhand",
+        "url": "https://www.pexels.com/photo/majestic-auli-cable-car-with-mountain-views-36746869/",
+        "original": "https://images.pexels.com/photos/36746869/pexels-photo-36746869.jpeg",
+        "alt": "A stunning view of the cable car in Auli, Uttarakhand with towering mountains and dramatic clouds."
+      }
+    ]
+  },
+  {
+    "placeKey": "badrinath temple|uttarakhand",
+    "query": "Badrinath Temple, Uttarakhand",
+    "name": "Badrinath Temple",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 38636300,
+        "name": "Badrinath Temple, Uttarakhand",
+        "url": "https://www.pexels.com/photo/scenic-view-of-badrinath-temple-in-the-himalayas-38636300/",
+        "original": "https://images.pexels.com/photos/38636300/pexels-photo-38636300.jpeg",
+        "alt": "A picturesque view of Badrinath Temple surrounded by the Himalayas shrouded in mist, conveying a serene atmosphere."
+      }
+    ]
+  },
+  {
+    "placeKey": "binsar wildlife sanctuary|uttarakhand",
+    "query": "Binsar Wildlife Sanctuary, Uttarakhand",
+    "name": "Binsar Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 36737806,
+        "name": "Binsar Wildlife Sanctuary, Uttarakhand",
+        "url": "https://www.pexels.com/photo/red-temple-amidst-pine-trees-in-binsar-uttarakhand-36737806/",
+        "original": "https://images.pexels.com/photos/36737806/pexels-photo-36737806.jpeg",
+        "alt": "A charming red temple nestled among pine trees in Binsar, Uttarakhand, India, during a sunny day."
+      }
+    ]
+  },
+  {
+    "placeKey": "chaubatia gardens|uttarakhand",
+    "query": "Chaubatia Gardens, Uttarakhand",
+    "name": "Chaubatia Gardens",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 17555106,
+        "name": "Chaubatia Gardens, Uttarakhand",
+        "url": "https://www.pexels.com/photo/close-up-of-pink-carnations-growing-outside-17555106/",
+        "original": "https://images.pexels.com/photos/17555106/pexels-photo-17555106.jpeg",
+        "alt": "Bright pink carnations in full bloom captured in Almora's lush fields, showcasing nature's vivid beauty."
+      }
+    ]
+  },
+  {
+    "placeKey": "jim corbett national park|uttarakhand",
+    "query": "Jim Corbett National Park, Uttarakhand",
+    "name": "Jim Corbett National Park",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 29666809,
+        "name": "Jim Corbett National Park, Uttarakhand",
+        "url": "https://www.pexels.com/photo/safari-adventure-in-uttarakhand-s-wilderness-29666809/",
+        "original": "https://images.pexels.com/photos/29666809/pexels-photo-29666809.png",
+        "alt": "Explore the rugged beauty of Uttarakhand on a thrilling safari adventure through lush forests and rocky streams."
+      }
+    ]
+  },
+  {
+    "placeKey": "gangotri temple|uttarakhand",
+    "query": "Gangotri Temple, Uttarakhand",
+    "name": "Gangotri Temple",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 29375777,
+        "name": "Gangotri Temple, Uttarakhand",
+        "url": "https://www.pexels.com/photo/picturesque-himalayan-village-by-riverside-29375777/",
+        "original": "https://images.pexels.com/photos/29375777/pexels-photo-29375777.jpeg",
+        "alt": "Lively Himalayan village scene with mountains, river, and people enjoying the landscape."
+      }
+    ]
+  },
+  {
+    "placeKey": "tungnath temple|uttarakhand",
+    "query": "Tungnath Temple, Uttarakhand",
+    "name": "Tungnath Temple",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 10432965,
+        "name": "Tungnath Temple, Uttarakhand",
+        "url": "https://www.pexels.com/photo/the-tungnath-temple-in-india-10432965/",
+        "original": "https://images.pexels.com/photos/10432965/pexels-photo-10432965.jpeg",
+        "alt": "Tungnath Temple in Rudraprayag, India offers stunning views with its ancient architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "valley of flowers|uttarakhand",
+    "query": "Valley of Flowers, Uttarakhand",
+    "name": "Valley of Flowers",
+    "state": "Uttarakhand",
+    "images": [
+      {
+        "id": 33299324,
+        "name": "Valley of Flowers, Uttarakhand",
+        "url": "https://www.pexels.com/photo/colorful-bouquet-in-lush-mountain-landscape-33299324/",
+        "original": "https://images.pexels.com/photos/33299324/pexels-photo-33299324.jpeg",
+        "alt": "A vibrant bouquet held against a backdrop of verdant mountains and clouds, portraying natural beauty and adventure."
+      }
+    ]
+  },
+  {
+    "placeKey": "taj mahal|uttar pradesh",
+    "query": "Taj Mahal, Uttar Pradesh",
+    "name": "Taj Mahal",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 11948442,
+        "name": "Taj Mahal, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/the-taj-mahal-in-india-11948442/",
+        "original": "https://images.pexels.com/photos/11948442/pexels-photo-11948442.jpeg",
+        "alt": "Beautiful view of the Taj Mahal with clear skies, a UNESCO World Heritage Site in Agra, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "kashi vishwanath temple|uttar pradesh",
+    "query": "Kashi Vishwanath Temple, Uttar Pradesh",
+    "name": "Kashi Vishwanath Temple",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 15142391,
+        "name": "Kashi Vishwanath Temple, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/kashi-vishwanath-temple-in-varanasi-15142391/",
+        "original": "https://images.pexels.com/photos/15142391/pexels-photo-15142391.jpeg",
+        "alt": "Golden spire of Kashi Vishwanath Temple amidst trees in Varanasi, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "bara imambara|uttar pradesh",
+    "query": "Bara Imambara, Uttar Pradesh",
+    "name": "Bara Imambara",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 35588016,
+        "name": "Bara Imambara, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/historic-bara-imambara-monument-in-lucknow-35588016/",
+        "original": "https://images.pexels.com/photos/35588016/pexels-photo-35588016.jpeg",
+        "alt": "Monochrome view of the intricate Bara Imambara in Lucknow, showcasing its architectural grandeur."
+      }
+    ]
+  },
+  {
+    "placeKey": "krishna janmabhoomi|uttar pradesh",
+    "query": "Krishna Janmabhoomi, Uttar Pradesh",
+    "name": "Krishna Janmabhoomi",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 31626024,
+        "name": "Krishna Janmabhoomi, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/shri-krishna-janmasthan-temple-in-mathura-31626024/",
+        "original": "https://images.pexels.com/photos/31626024/pexels-photo-31626024.jpeg",
+        "alt": "Explore the Shri Krishna Janmasthan Temple, a historic Hindu temple in Mathura, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "ram janmabhoomi|uttar pradesh",
+    "query": "Ram Janmabhoomi, Uttar Pradesh",
+    "name": "Ram Janmabhoomi",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 13102404,
+        "name": "Ram Janmabhoomi, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/facade-of-the-ram-raja-temple-in-pradesh-india-13102404/",
+        "original": "https://images.pexels.com/photos/13102404/pexels-photo-13102404.jpeg",
+        "alt": "A stunning aerial view of Ram Raja Temple in Orchha, India, showcasing its intricate architecture and cultural significance."
+      }
+    ]
+  },
+  {
+    "placeKey": "banke bihari temple|uttar pradesh",
+    "query": "Banke Bihari Temple, Uttar Pradesh",
+    "name": "Banke Bihari Temple",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 24862859,
+        "name": "Banke Bihari Temple, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/crowd-covered-in-colorful-dust-during-holi-celebration-24862859/",
+        "original": "https://images.pexels.com/photos/24862859/pexels-photo-24862859.jpeg",
+        "alt": "A vibrant crowd enjoying the Holi festival, covered in colorful powders."
+      }
+    ]
+  },
+  {
+    "placeKey": "triveni sangam|uttar pradesh",
+    "query": "Triveni Sangam, Uttar Pradesh",
+    "name": "Triveni Sangam",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 31022593,
+        "name": "Triveni Sangam, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/aerial-view-of-mahakumbh-festival-2025-in-prayagraj-31022593/",
+        "original": "https://images.pexels.com/photos/31022593/pexels-photo-31022593.jpeg",
+        "alt": "Crowds gather at the Mahakumbh Festival in Prayagraj, capturing the essence of cultural spirituality."
+      }
+    ]
+  },
+  {
+    "placeKey": "jhansi fort|uttar pradesh",
+    "query": "Jhansi Fort, Uttar Pradesh",
+    "name": "Jhansi Fort",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 20000867,
+        "name": "Jhansi Fort, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/raja-mahal-in-jhansi-in-india-20000867/",
+        "original": "https://images.pexels.com/photos/20000867/pexels-photo-20000867.jpeg",
+        "alt": "Explore the majestic Raja Mahal palace in Jhansi, a testament to India's rich history and architecture."
+      }
+    ]
+  },
+  {
+    "placeKey": "dhamek stupa|uttar pradesh",
+    "query": "Dhamek Stupa, Uttar Pradesh",
+    "name": "Dhamek Stupa",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 39037032,
+        "name": "Dhamek Stupa, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/historic-dhamek-stupa-in-varanasi-india-39037032/",
+        "original": "https://images.pexels.com/photos/39037032/pexels-photo-39037032.jpeg",
+        "alt": "A serene view of the Dhamek Stupa in Varanasi, showcasing its grandeur and historical significance."
+      }
+    ]
+  },
+  {
+    "placeKey": "buland darwaza|uttar pradesh",
+    "query": "Buland Darwaza, Uttar Pradesh",
+    "name": "Buland Darwaza",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 6244988,
+        "name": "Buland Darwaza, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/brown-building-under-blue-sky-6244988/",
+        "original": "https://images.pexels.com/photos/6244988/pexels-photo-6244988.jpeg",
+        "alt": "Impressive view of Buland Darwaza at Fatehpur Sikri showcasing its Islamic architectural elegance under a blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "okhla bird sanctuary|uttar pradesh",
+    "query": "Okhla Bird Sanctuary, Uttar Pradesh",
+    "name": "Okhla Bird Sanctuary",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 32952278,
+        "name": "Okhla Bird Sanctuary, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/birds-in-flight-over-tranquil-wetland-at-sunrise-32952278/",
+        "original": "https://images.pexels.com/photos/32952278/pexels-photo-32952278.jpeg",
+        "alt": "Captivating scene of birds takes flight over a serene wetland at sunrise in Bareilly, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "aligarh fort|uttar pradesh",
+    "query": "Aligarh Fort, Uttar Pradesh",
+    "name": "Aligarh Fort",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 14909167,
+        "name": "Aligarh Fort, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/agra-fort-in-india-14909167/",
+        "original": "https://images.pexels.com/photos/14909167/pexels-photo-14909167.jpeg",
+        "alt": "Aerial view of Agra Fort surrounded by mist and greenery in the morning"
+      }
+    ]
+  },
+  {
+    "placeKey": "augarnath temple|uttar pradesh",
+    "query": "Augarnath Temple, Uttar Pradesh",
+    "name": "Augarnath Temple",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 34750354,
+        "name": "Augarnath Temple, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/dhammek-stupa-in-sarnath-with-colorful-flags-34750354/",
+        "original": "https://images.pexels.com/photos/34750354/pexels-photo-34750354.jpeg",
+        "alt": "Majestic Dhammek Stupa in Sarnath, India, adorned with vibrant flags under the sunny sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "allen forest zoo|uttar pradesh",
+    "query": "Allen Forest Zoo, Uttar Pradesh",
+    "name": "Allen Forest Zoo",
+    "state": "Uttar Pradesh",
+    "images": [
+      {
+        "id": 16453790,
+        "name": "Allen Forest Zoo, Uttar Pradesh",
+        "url": "https://www.pexels.com/photo/hut-in-woods-16453790/",
+        "original": "https://images.pexels.com/photos/16453790/pexels-photo-16453790.jpeg",
+        "alt": "A rural thatched hut surrounded by lush green forest in Palia Kalan, UP, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "dal lake|jammu and kashmir",
+    "query": "Dal Lake, Jammu and Kashmir",
+    "name": "Dal Lake",
+    "state": "Jammu and Kashmir",
+    "images": [
+      {
+        "id": 8144471,
+        "name": "Dal Lake, Jammu and Kashmir",
+        "url": "https://www.pexels.com/photo/boat-on-the-water-near-the-shore-with-houses-8144471/",
+        "original": "https://images.pexels.com/photos/8144471/pexels-photo-8144471.jpeg",
+        "alt": "Peaceful boat ride on a mountain lake with snow-capped peaks and homes in the background."
+      }
+    ]
+  },
+  {
+    "placeKey": "pangong tso|ladakh",
+    "query": "Pangong Tso, Ladakh",
+    "name": "Pangong Tso",
+    "state": "Ladakh",
+    "images": [
+      {
+        "id": 28523125,
+        "name": "Pangong Tso, Ladakh",
+        "url": "https://www.pexels.com/photo/scenic-view-of-pangong-lake-and-surrounding-mountains-28523125/",
+        "original": "https://images.pexels.com/photos/28523125/pexels-photo-28523125.jpeg",
+        "alt": "Stunning view of Pangong Lake with clear blue waters and majestic mountains under a bright sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "betaab valley|jammu and kashmir",
+    "query": "Betaab Valley, Jammu and Kashmir",
+    "name": "Betaab Valley",
+    "state": "Jammu and Kashmir",
+    "images": [
+      {
+        "id": 35030067,
+        "name": "Betaab Valley, Jammu and Kashmir",
+        "url": "https://www.pexels.com/photo/scenic-river-landscape-in-pahalgam-kashmir-35030067/",
+        "original": "https://images.pexels.com/photos/35030067/pexels-photo-35030067.jpeg",
+        "alt": "Man standing by a river in Pahalgam, Kashmir with lush green forest backdrop."
+      }
+    ]
+  },
+  {
+    "placeKey": "vaishno devi|jammu and kashmir",
+    "query": "Vaishno Devi, Jammu and Kashmir",
+    "name": "Vaishno Devi",
+    "state": "Jammu and Kashmir",
+    "images": [
+      {
+        "id": 13081039,
+        "name": "Vaishno Devi, Jammu and Kashmir",
+        "url": "https://www.pexels.com/photo/scenic-view-of-a-resort-in-the-mountains-13081039/",
+        "original": "https://images.pexels.com/photos/13081039/pexels-photo-13081039.jpeg",
+        "alt": "Stunning view of a mountain resort nestled within rugged peaks under a blue sky."
+      }
+    ]
+  },
+  {
+    "placeKey": "patnitop height|jammu and kashmir",
+    "query": "Patnitop Height, Jammu and Kashmir",
+    "name": "Patnitop Height",
+    "state": "Jammu and Kashmir",
+    "images": [
+      {
+        "id": 3974038,
+        "name": "Patnitop Height, Jammu and Kashmir",
+        "url": "https://www.pexels.com/photo/man-in-red-long-sleeve-shirt-sitting-on-rock-3974038/",
+        "original": "https://images.pexels.com/photos/3974038/pexels-photo-3974038.jpeg",
+        "alt": "Person enjoying scenic Himalayan view from a mountain perch in Kashmir."
+      }
+    ]
+  },
+  {
+    "placeKey": "amarnath cave|jammu and kashmir",
+    "query": "Amarnath Cave, Jammu and Kashmir",
+    "name": "Amarnath Cave",
+    "state": "Jammu and Kashmir",
+    "images": [
+      {
+        "id": 10679349,
+        "name": "Amarnath Cave, Jammu and Kashmir",
+        "url": "https://www.pexels.com/photo/wooden-building-in-a-valley-covered-with-snow-10679349/",
+        "original": "https://images.pexels.com/photos/10679349/pexels-photo-10679349.jpeg",
+        "alt": "Aerial view of Gulmarg ski resort with snowy mountains, vibrant buildings, and people enjoying winter activities."
+      }
+    ]
+  },
+  {
+    "placeKey": "thiksey monastery|ladakh",
+    "query": "Thiksey Monastery, Ladakh",
+    "name": "Thiksey Monastery",
+    "state": "Ladakh",
+    "images": [
+      {
+        "id": 6650438,
+        "name": "Thiksey Monastery, Ladakh",
+        "url": "https://www.pexels.com/photo/cityscape-of-city-built-on-rocky-mountainside-6650438/",
+        "original": "https://images.pexels.com/photos/6650438/pexels-photo-6650438.jpeg",
+        "alt": "Stunning view of Thiksey Monastery under dramatic clouds in Leh, India."
+      }
+    ]
+  },
+  {
+    "placeKey": "nubra valley|ladakh",
+    "query": "Nubra Valley, Ladakh",
+    "name": "Nubra Valley",
+    "state": "Ladakh",
+    "images": [
+      {
+        "id": 39352208,
+        "name": "Nubra Valley, Ladakh",
+        "url": "https://www.pexels.com/photo/camel-caravan-in-the-mountains-of-nubra-valley-39352208/",
+        "original": "https://images.pexels.com/photos/39352208/pexels-photo-39352208.jpeg",
+        "alt": "Camel riders traverse the vast landscape of Nubra Valley with towering mountains in the background."
+      }
+    ]
+  },
+  {
+    "placeKey": "kargil war memorial|ladakh",
+    "query": "Kargil War Memorial, Ladakh",
+    "name": "Kargil War Memorial",
+    "state": "Ladakh",
+    "images": [
+      {
+        "id": 35886458,
+        "name": "Kargil War Memorial, Ladakh",
+        "url": "https://www.pexels.com/photo/kargil-war-memorial-under-clear-blue-sky-35886458/",
+        "original": "https://images.pexels.com/photos/35886458/pexels-photo-35886458.jpeg",
+        "alt": "The Kargil War Memorial honor fallen soldiers with mountainous backdrop in Ladakh."
       }
     ]
   }

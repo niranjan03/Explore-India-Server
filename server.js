@@ -9,6 +9,8 @@ const { connectDB } = require('./config/db');
 const adminRoutes = require('./routes/admin');
 const placesRoutes = require('./routes/places');
 const newsletterRoutes = require('./routes/newsletter');
+const analyticsRoutes = require('./routes/analytics');
+const jsonDataRoutes = require('./routes/jsonData');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -16,7 +18,12 @@ const PORT = process.env.PORT || 5000;
 // Body parsing and CORS middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(cors());
+app.use(cors(
+  {
+    origin:['https://www.exploring-india.com'],
+    credentials:true
+  }
+));
 
 async function startServer() {
   try {
@@ -48,7 +55,8 @@ async function startServer() {
     app.use('/api/places', placesRoutes); // Public Place Routes
     app.use('/api/admin', adminRoutes);   // Protected Admin Routes
     app.use('/api/newsletter', newsletterRoutes); // Newsletter Routes
-
+    app.use('/api/json', jsonDataRoutes); // JSON data + image merge routes
+    app.use('/api/analytics', analyticsRoutes); // Visitor monitoring routes
 
     app.listen(PORT, () => {
       console.log(`🚀 Explore India Control Grid broadcasting live over port: ${PORT}`);
