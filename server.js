@@ -56,7 +56,8 @@ async function startServer() {
     app.use('/api/admin', adminRoutes);   // Protected Admin Routes
     app.use('/api/newsletter', newsletterRoutes); // Newsletter Routes
     app.use('/api/json', jsonDataRoutes); // JSON data + image merge routes
-    app.use('/api/analytics', analyticsRoutes); // Visitor monitoring routes
+    //app.use('/api/analytics', analyticsRoutes);
+     // Visitor monitoring routes
 
     app.listen(PORT, () => {
       console.log(`🚀 Explore India Control Grid broadcasting live over port: ${PORT}`);
