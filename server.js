@@ -11,6 +11,7 @@ const placesRoutes = require('./routes/places');
 const newsletterRoutes = require('./routes/newsletter');
 const analyticsRoutes = require('./routes/analytics');
 const jsonDataRoutes = require('./routes/jsonData');
+const { syncJsonData } = require('./services/jsonData');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -29,6 +30,8 @@ async function startServer() {
   try {
     // Connect to MongoDB
     const db = await connectDB();
+    const syncedCount = await syncJsonData(db);
+    console.log(`Synced ${syncedCount} combined JSON destination records to MongoDB.`);
 
     // Attach native database connection handle to every request
     app.use((req, res, next) => {

@@ -1,22 +1,12 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const { makeKey, normalizeValue, syncJsonData } = require('../services/jsonData');
 
 const router = express.Router();
 
 const DATA_FILE = path.join(__dirname, '../data/data.json');
 const IMAGES_FILE = path.join(__dirname, '../data/images.json');
-
-function normalizeValue(value) {
-  return String(value || '')
-    .trim()
-    .toLowerCase()
-    .replace(/\s+/g, ' ');
-}
-
-function makeKey(name, state) {
-  return `${normalizeValue(name)}|${normalizeValue(state)}`;
-}
 
 function readJson(filePath, fallback = []) {
   if (!fs.existsSync(filePath)) return fallback;
@@ -61,49 +51,30 @@ router.get('/images', (req, res) => {
   }
 });
 
-router.get('/combined', (req, res) => {
+router.get('/combined', async (req, res) => {
   try {
-    const dataList = readJson(DATA_FILE, []);
-    const imageList = readJson(IMAGES_FILE, []);
-
-    const imageMap = new Map();
-    imageList.forEach((item) => {
-      const key = makeKey(item.name, item.state);
-      imageMap.set(key, item);
-    });
-
-    const combined = dataList.map((entry) => {
-      const key = makeKey(entry.Name, entry.State);
-      return {
-        ...entry,
-        image: imageMap.get(key) || null,
-        matchKey: key
-      };
-    });
+    const combined = await req.db.collection('json_destinations')
+      .find({}, { projection: { _id: 0, recordKey: 0 } })
+      .toArray();
 
     res.status(200).json({
       count: combined.length,
       combined
     });
   } catch (error) {
+    console.error('Error fetching combined JSON data:', error);
     res.status(500).json({ message: error.message });
   }
 });
 
-router.get('/search', (req, res) => {
+router.get('/search', async (req, res) => {
   try {
-    const { state, name, keyword } = req.query;
-    const dataList = readJson(DATA_FILE, []);
-    const imageList = readJson(IMAGES_FILE, []);
-    const imageMap = new Map();
-
-    imageList.forEach((item) => {
-      const key = makeKey(item.name, item.state);
-      imageMap.set(key, item);
-    });
-
-    const searchTerm = normalizeValue(keyword || name || '');
+    const { state, name, keyword, q } = req.query;
+    const searchTerm = normalizeValue(q || keyword || name || '');
     const stateTerm = normalizeValue(state || '');
+    const dataList = await req.db.collection('json_destinations')
+      .find({}, { projection: { _id: 0, recordKey: 0 } })
+      .toArray();
 
     const results = dataList.filter((entry) => {
       const entryName = normalizeValue(entry.Name);
@@ -113,26 +84,20 @@ router.get('/search', (req, res) => {
       const matchesName = !searchTerm || entryName.includes(searchTerm);
 
       return matchesState && matchesName;
-    }).map((entry) => {
-      const key = makeKey(entry.Name, entry.State);
-      return {
-        ...entry,
-        image: imageMap.get(key) || null,
-        matchKey: key
-      };
     });
 
     res.status(200).json({
       count: results.length,
-      query: { state, name, keyword },
+      query: { state, name, keyword, q },
       results
     });
   } catch (error) {
+    console.error('Error searching combined JSON data:', error);
     res.status(500).json({ message: error.message });
   }
 });
 
-router.post('/connect', (req, res) => {
+router.post('/connect', async (req, res) => {
   try {
     const { name, state, data = {}, images = [] } = req.body || {};
 
@@ -181,6 +146,7 @@ router.post('/connect', (req, res) => {
 
     writeJson(DATA_FILE, dataList);
     writeJson(IMAGES_FILE, imageList);
+    await syncJsonData(req.db);
 
     res.status(200).json({
       message: 'Connected data.json and images.json by name and state.',
