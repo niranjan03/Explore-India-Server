@@ -71,8 +71,24 @@ async function syncJsonData(db) {
   fs.writeFileSync(COMBINED_FILE, JSON.stringify(fileData, null, 2), 'utf8');
 
   const collection = db.collection(COLLECTION_NAME);
+  const indexes = await collection.listIndexes().toArray();
+  for (const index of indexes) {
+    if (
+      index.unique
+      && Object.keys(index.key).length === 1
+      && index.key.matchKey === 1
+    ) {
+      await collection.dropIndex(index.name);
+    }
+  }
 
-  await collection.createIndex({ recordKey: 1 }, { unique: true });
+  await collection.createIndex(
+    { recordKey: 1 },
+    {
+      unique: true,
+      partialFilterExpression: { recordKey: { $type: 'string' } }
+    }
+  );
   await collection.bulkWrite(combined.map((record) => ({
     replaceOne: {
       filter: { recordKey: record.recordKey },

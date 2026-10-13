@@ -5,12 +5,31 @@ const test = require('node:test');
 const { syncJsonData } = require('../services/jsonData');
 
 test('syncJsonData joins the JSON files and removes stale database records', async () => {
-  const records = [{ recordKey: 'stale|record', matchKey: 'stale|record' }];
+  const records = [
+    { recordKey: 'stale|record', matchKey: 'stale|record' },
+    { recordKey: null, Name: 'legacy null key' },
+    { Name: 'legacy missing key' }
+  ];
   let indexCreated = false;
+  const droppedIndexes = [];
 
   const collection = {
+    listIndexes() {
+      return {
+        toArray: async () => [
+          { name: '_id_', key: { _id: 1 }, unique: true },
+          { name: 'matchKey_1', key: { matchKey: 1 }, unique: true },
+          { name: 'recordKey_1', key: { recordKey: 1 }, unique: true }
+        ]
+      };
+    },
+    async dropIndex(name) {
+      droppedIndexes.push(name);
+    },
     async createIndex(keys, options) {
-      indexCreated = keys.recordKey === 1 && options.unique === true;
+      indexCreated = keys.recordKey === 1
+        && options.unique === true
+        && options.partialFilterExpression.recordKey.$type === 'string';
     },
     async bulkWrite(operations) {
       for (const { replaceOne } of operations) {
@@ -35,6 +54,7 @@ test('syncJsonData joins the JSON files and removes stale database records', asy
   const count = await syncJsonData({ collection: () => collection });
 
   assert.equal(indexCreated, true);
+  assert.deepEqual(droppedIndexes, ['matchKey_1']);
   assert.ok(count > 0);
   assert.equal(records.length, count);
   assert.ok(records.every((record) => record.Name && record.State));
